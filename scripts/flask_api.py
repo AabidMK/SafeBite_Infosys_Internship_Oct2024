@@ -1,8 +1,13 @@
 from flask import Flask, request, jsonify
 import joblib
 import pandas as pd
+import os
 
 app = Flask(__name__)
+
+
+print("Current working directory:", os.getcwd())
+
 
 # Load pre-trained model
 model_path = 'models/best_decision_tree_model.pkl'  # Update with the correct model path
