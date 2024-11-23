@@ -6,12 +6,16 @@ import os
 app = Flask(__name__)
 
 
-print("Current working directory:", os.getcwd())
 
+# Get the absolute path to the 'models' directory
+model_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'models', 'best_decision_tree_model.pkl')
 
-# Load pre-trained model
-model_path = 'models/best_decision_tree_model.pkl'  # Update with the correct model path
+# Now load the model
 model = joblib.load(model_path)
+
+
+
+
 
 @app.route('/')
 def home():
