@@ -5,7 +5,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load pre-trained model
-model_path = "C:/Users/Akshi/SafeBite_Infosys_Internship_Oct2024/models/best_decision_tree_model.pkl"  # Update with the correct model path
+model_path = 'models/best_decision_tree_model.pkl'  # Update with the correct model path
 model = joblib.load(model_path)
 
 @app.route('/')
