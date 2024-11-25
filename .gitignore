@@ -1,0 +1,33 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.db
+
+# Virtual Environment
+venv/
+.env/
+.env.*  # For dotenv files
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Streamlit specific
+.config/
+*.log
+
+# Model and encoder files (you can exclude these if they’re stored elsewhere)
+model.pkl
+encoder.pkl
+
+# Data files (if any large data files are included that shouldn’t be tracked)
+data/
+
+# IDE files
+.vscode/
+
+
+# Temporary Files
+*.log
+*.tmp
