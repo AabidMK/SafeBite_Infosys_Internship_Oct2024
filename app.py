@@ -15,7 +15,7 @@ with open('Model/leave_one_out_encoder.pkl', 'rb') as file:
     loaded_encoder = pickle.load(file)
 
 # Sidebar for customization or branding
-st.sidebar.image("logo.jpg", use_container_width=True)
+st.sidebar.image("Assests/logo.jpg", use_container_width=True)
 st.sidebar.markdown("<p style='text-align: center; font-family: cursive; font-style: italic; font-size: 20px; color: #00ffff;'>\"Every bite should be a safe bite!\"</p>", unsafe_allow_html=True)
 st.sidebar.title("SafeBite AI")
 st.sidebar.write("SafeBite AI ensures food safety by predicting the presence of allergens in food products, helping individuals make informed choices.")
