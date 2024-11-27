@@ -1,6 +1,6 @@
 !pip install flask-ngrok pyngrok joblib pandas flask
 !pip install category_encoders
-!ngrok authtoken 2gY7mcXdU4wRpOmKQFk85B7oxq0_5V63PccLiVuxgbAqZeBGB
+!ngrok authtoken 2gY7mcXU4RpOKQFk85B7oxq0_5V63PccLiVuxgbAqZeBGB
 from flask import Flask, request, jsonify
 import joblib
 import pandas as pd
