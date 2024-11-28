@@ -104,7 +104,7 @@ This script will preprocess the data, train the model, and save the trained mode
 To run the SafeBite web app, use the following command:
 
 ```bash
-python AI_SafeBite_Streamlit_Flask_App.py
+streamlit run AI_SafeBite_Streamlit_Flask_App.py
 ```
 
 Once the app is running, open your browser and visit `http://localhost:5000` to interact with the application.
