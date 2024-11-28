@@ -39,8 +39,13 @@ def predict():
     # Make the prediction
     prediction = rf_model.predict(input_data)
 
-    # Return the prediction result
+    # Determine the result
     result = "contains allergens" if prediction[0] == 0 else "does not contain allergens"
+
+    # Print the prediction result to the command prompt
+    print(f'Prediction: {result}')
+
+    # Return the prediction result
     return jsonify({'prediction': result})
 
 if __name__ == '__main__':

@@ -83,33 +83,29 @@ if st.button('Predict'):
     if not all([food_product, main_ingredient, sweetener, fat_oil, seasoning, allergens, price, customer_rating]):
         st.warning('Please fill all the fields')
     else:
-        # Create a DataFrame from the input values
-        input_data = pd.DataFrame({
-            'Food Product': [food_product],
-            'Main Ingredient': [main_ingredient],
-            'Sweetener': [sweetener],
-            'Fat/Oil': [fat_oil],
-            'Seasoning': [seasoning],
-            'Allergens': [allergens],
-            'Price': [price],
-            'Customer rating': [customer_rating]
-        })
+        # Create a dictionary from the input values
+        input_data = {
+            'food_product': food_product,
+            'main_ingredient': main_ingredient,
+            'sweetener': sweetener,
+            'fat_oil': fat_oil,
+            'seasoning': seasoning,
+            'allergens': allergens,
+            'price': price,
+            'customer_rating': customer_rating
+        }
+        try:
 
-        # Encode the categorical features
-        categorical_columns = input_data.select_dtypes(include=['object']).columns
-        input_data_encoded = encoder.transform(input_data[categorical_columns])
+         response = requests.post('http://127.0.0.1:5000/predict', json=input_data)
+         result = response.json()
 
-        # Combine the encoded features with the numerical features
-        input_data = pd.concat([input_data.drop(categorical_columns, axis=1), pd.DataFrame(input_data_encoded, columns=encoder.get_feature_names_out())], axis=1)
+         if result['prediction'] == 'contains allergens':
+            st.error('The food product **Contains** allergens.. Please proceed with caution! 🚨')
+         else:
+            st.success('The food product **Does not contains** allergens.It is safe to consume.')
 
-        # Make the prediction
-        prediction = rf_model.predict(input_data)
-
-        # Display the prediction result
-        if prediction[0] == 0:
-            st.success('The food product **Contains** allergens.')
-        else:
-            st.error('The food product **Does not contains** allergens.')
+        except Exception as e:
+            st.error(f"Error during prediction: {e}")
 
 # Footer
 st.markdown("""
