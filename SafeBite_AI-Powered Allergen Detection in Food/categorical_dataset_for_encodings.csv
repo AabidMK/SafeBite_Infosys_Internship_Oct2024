@@ -1,0 +1,1001 @@
+CustomerID,Gender,Education,City,MaritalStatus,AgeGroup,PurchaseIntent,House_Price
+1,Male,Bachelors,Chicago,Married,Senior,Low,184811
+2,Female,Masters,Houston,Married,Senior,Medium,290121
+3,Male,High School,Los Angeles,Single,Teen,Medium,332892
+4,Male,High School,Houston,Single,Adult,High,480172
+5,Male,High School,Houston,Married,Teen,Low,139178
+6,Female,High School,Chicago,Single,Adult,High,394965
+7,Male,PhD,Houston,Single,Senior,High,116999
+8,Male,High School,Chicago,Married,Teen,Medium,400856
+9,Male,PhD,New York,Single,Adult,Low,295623
+10,Female,PhD,New York,Divorced,Young Adult,Medium,271244
+11,Male,High School,Chicago,Divorced,Adult,Low,395866
+12,Male,High School,New York,Divorced,Teen,High,372769
+13,Male,Bachelors,Los Angeles,Divorced,Young Adult,Low,298237
+14,Male,Masters,Houston,Married,Adult,Medium,106859
+15,Female,High School,Los Angeles,Married,Adult,Medium,210986
+16,Male,Bachelors,Houston,Married,Adult,Medium,332654
+17,Female,Bachelors,New York,Divorced,Adult,Low,383983
+18,Female,Masters,Los Angeles,Divorced,Adult,High,389360
+19,Female,PhD,New York,Single,Young Adult,High,415097
+20,Male,High School,Houston,Single,Senior,Low,149522
+21,Female,Masters,Chicago,Divorced,Young Adult,Medium,330233
+22,Male,High School,Chicago,Divorced,Young Adult,High,498102
+23,Female,Bachelors,Los Angeles,Divorced,Young Adult,Medium,473393
+24,Female,Bachelors,New York,Divorced,Senior,Low,107485
+25,Female,PhD,New York,Single,Teen,Medium,343056
+26,Female,Bachelors,Los Angeles,Divorced,Senior,High,212701
+27,Female,Bachelors,Chicago,Single,Young Adult,High,307352
+28,Female,Masters,Houston,Divorced,Adult,Medium,202638
+29,Female,High School,Los Angeles,Divorced,Adult,Low,284514
+30,Female,High School,Houston,Divorced,Young Adult,Medium,374370
+31,Male,Masters,Chicago,Single,Adult,Low,193405
+32,Male,PhD,New York,Single,Young Adult,Medium,384732
+33,Female,High School,Chicago,Married,Adult,High,310048
+34,Female,Bachelors,Los Angeles,Divorced,Senior,Low,262781
+35,Female,High School,New York,Married,Teen,Low,137019
+36,Male,Bachelors,Los Angeles,Married,Teen,Low,361497
+37,Female,PhD,Los Angeles,Single,Senior,High,165133
+38,Male,Masters,Chicago,Single,Senior,Medium,476588
+39,Male,High School,Los Angeles,Married,Young Adult,High,297530
+40,Male,Masters,Chicago,Divorced,Young Adult,Low,479747
+41,Male,High School,New York,Single,Young Adult,Medium,258598
+42,Male,Bachelors,Chicago,Divorced,Adult,High,228585
+43,Female,Masters,New York,Divorced,Young Adult,Low,345172
+44,Female,High School,Chicago,Married,Senior,Low,405539
+45,Female,Bachelors,Houston,Married,Teen,High,225814
+46,Female,Masters,Houston,Married,Adult,High,474743
+47,Female,Masters,Los Angeles,Married,Young Adult,High,125939
+48,Male,High School,Chicago,Single,Adult,Low,253939
+49,Female,High School,Chicago,Single,Adult,High,362347
+50,Female,High School,New York,Married,Young Adult,Low,391207
+51,Male,Bachelors,Los Angeles,Single,Adult,High,190880
+52,Female,High School,Chicago,Married,Teen,Low,103748
+53,Male,Masters,Los Angeles,Divorced,Senior,Low,336094
+54,Female,Masters,Houston,Divorced,Senior,Medium,479413
+55,Male,High School,Chicago,Divorced,Teen,High,442908
+56,Female,High School,Chicago,Married,Adult,High,251956
+57,Female,PhD,Los Angeles,Divorced,Young Adult,Low,256255
+58,Male,Masters,Chicago,Single,Adult,Low,470180
+59,Male,Bachelors,Los Angeles,Divorced,Teen,Low,250331
+60,Male,PhD,Chicago,Divorced,Adult,Medium,267031
+61,Male,High School,New York,Divorced,Senior,Medium,478669
+62,Male,High School,Los Angeles,Single,Adult,Low,447823
+63,Male,Masters,Chicago,Married,Teen,High,225829
+64,Male,High School,Houston,Single,Senior,High,228216
+65,Male,Bachelors,Chicago,Married,Adult,Medium,495319
+66,Female,Masters,Houston,Married,Adult,Medium,165901
+67,Female,High School,Houston,Divorced,Senior,Low,343386
+68,Male,Masters,New York,Married,Young Adult,High,275607
+69,Female,High School,Los Angeles,Single,Senior,Low,198046
+70,Female,High School,Chicago,Single,Young Adult,Medium,452156
+71,Female,High School,New York,Married,Teen,High,178278
+72,Female,Bachelors,Chicago,Divorced,Teen,High,374535
+73,Male,Bachelors,Houston,Divorced,Senior,Medium,202476
+74,Female,Masters,Los Angeles,Single,Senior,Low,482865
+75,Male,High School,Chicago,Divorced,Teen,Low,197537
+76,Female,High School,Chicago,Married,Young Adult,High,443303
+77,Female,Bachelors,Houston,Married,Teen,Medium,493184
+78,Female,High School,Chicago,Single,Senior,High,281429
+79,Male,Bachelors,Chicago,Married,Teen,Medium,317980
+80,Female,High School,Houston,Single,Senior,Low,397647
+81,Male,Masters,New York,Married,Senior,Medium,175403
+82,Female,High School,Houston,Single,Teen,Low,164286
+83,Male,High School,New York,Divorced,Young Adult,Medium,436986
+84,Female,PhD,Los Angeles,Married,Adult,High,204927
+85,Male,Bachelors,New York,Married,Teen,Low,377052
+86,Male,High School,New York,Single,Adult,High,399372
+87,Female,High School,Los Angeles,Single,Teen,High,123386
+88,Male,PhD,New York,Married,Adult,Low,277826
+89,Female,PhD,Houston,Single,Young Adult,Low,390446
+90,Female,Bachelors,New York,Married,Young Adult,High,422959
+91,Female,PhD,Los Angeles,Divorced,Teen,High,352156
+92,Female,Masters,Houston,Single,Senior,High,425488
+93,Female,PhD,Los Angeles,Married,Adult,High,473747
+94,Female,Masters,Los Angeles,Divorced,Senior,Low,423258
+95,Female,Bachelors,Chicago,Divorced,Senior,Low,348724
+96,Female,Bachelors,Chicago,Married,Senior,High,301202
+97,Female,Bachelors,Los Angeles,Single,Young Adult,Medium,125525
+98,Female,Bachelors,Los Angeles,Married,Teen,Medium,179818
+99,Female,Bachelors,Los Angeles,Divorced,Teen,Low,214589
+100,Male,Masters,Chicago,Married,Young Adult,High,245406
+101,Male,Masters,Chicago,Single,Young Adult,High,194715
+102,Female,Bachelors,New York,Divorced,Teen,Low,293839
+103,Female,PhD,New York,Married,Senior,Medium,368788
+104,Female,High School,Los Angeles,Single,Adult,Medium,463298
+105,Female,Bachelors,Houston,Divorced,Adult,Medium,357438
+106,Female,PhD,Houston,Single,Adult,Low,405613
+107,Female,High School,Chicago,Divorced,Senior,Medium,468753
+108,Female,Bachelors,Chicago,Married,Teen,Low,427350
+109,Female,Bachelors,Chicago,Single,Young Adult,Low,458606
+110,Male,Masters,Los Angeles,Divorced,Teen,High,267679
+111,Female,High School,Houston,Single,Senior,Medium,183178
+112,Male,High School,New York,Single,Young Adult,Low,275458
+113,Female,PhD,Los Angeles,Married,Senior,Medium,354466
+114,Female,Masters,New York,Single,Adult,Medium,186724
+115,Male,Masters,New York,Divorced,Adult,High,329204
+116,Female,Masters,Los Angeles,Divorced,Senior,Medium,196393
+117,Male,Masters,New York,Divorced,Young Adult,High,489458
+118,Female,High School,Houston,Divorced,Young Adult,Low,176312
+119,Female,High School,New York,Married,Teen,Medium,437468
+120,Male,Bachelors,Houston,Single,Adult,Low,171196
+121,Female,Bachelors,Houston,Married,Teen,Medium,170014
+122,Male,Masters,Houston,Single,Teen,Low,241994
+123,Female,Masters,Chicago,Single,Senior,Medium,133340
+124,Male,Masters,New York,Single,Senior,Medium,401994
+125,Male,Bachelors,Los Angeles,Married,Teen,Medium,213711
+126,Female,PhD,Los Angeles,Single,Adult,Medium,315250
+127,Female,PhD,New York,Married,Senior,Medium,111094
+128,Male,Bachelors,Chicago,Divorced,Teen,Medium,450103
+129,Female,Bachelors,Chicago,Divorced,Teen,Medium,367885
+130,Female,Bachelors,Houston,Single,Teen,Medium,211585
+131,Female,Bachelors,New York,Married,Teen,Medium,484708
+132,Male,Bachelors,New York,Divorced,Teen,Low,168798
+133,Male,Bachelors,Los Angeles,Married,Teen,High,478170
+134,Male,Masters,New York,Married,Senior,Medium,301604
+135,Male,Masters,Chicago,Single,Adult,High,210130
+136,Male,Masters,New York,Divorced,Teen,Medium,384308
+137,Male,Masters,Los Angeles,Single,Young Adult,Medium,266667
+138,Male,Bachelors,Houston,Single,Senior,Low,130257
+139,Male,PhD,Los Angeles,Divorced,Senior,Low,458133
+140,Male,High School,Los Angeles,Divorced,Teen,High,498448
+141,Female,Bachelors,Houston,Married,Senior,Low,152691
+142,Male,High School,Los Angeles,Divorced,Teen,Low,179768
+143,Female,PhD,Los Angeles,Married,Adult,High,114026
+144,Female,Masters,New York,Married,Adult,Low,325162
+145,Female,PhD,New York,Married,Senior,Medium,393052
+146,Male,Bachelors,Houston,Divorced,Senior,High,119610
+147,Male,Masters,New York,Single,Young Adult,High,277718
+148,Male,Bachelors,New York,Married,Senior,Medium,425329
+149,Male,Masters,Los Angeles,Single,Young Adult,Low,434711
+150,Female,High School,Chicago,Single,Adult,High,278646
+151,Male,High School,New York,Divorced,Adult,High,322123
+152,Male,High School,Chicago,Single,Teen,Medium,398326
+153,Male,PhD,New York,Single,Adult,Medium,478280
+154,Male,Bachelors,New York,Divorced,Young Adult,Low,493786
+155,Male,PhD,Houston,Married,Senior,High,119288
+156,Female,High School,Houston,Single,Teen,Low,440968
+157,Male,Bachelors,Houston,Divorced,Young Adult,Low,184425
+158,Female,High School,Chicago,Single,Senior,Medium,100917
+159,Male,PhD,Los Angeles,Single,Teen,High,437746
+160,Female,PhD,New York,Married,Adult,High,426719
+161,Male,PhD,New York,Single,Young Adult,High,434662
+162,Male,High School,New York,Divorced,Senior,Medium,353187
+163,Female,Bachelors,Chicago,Single,Teen,Medium,139104
+164,Female,Bachelors,Houston,Married,Teen,Medium,249134
+165,Female,High School,Los Angeles,Married,Adult,Medium,379143
+166,Male,Bachelors,Chicago,Divorced,Senior,Medium,362091
+167,Female,High School,Houston,Married,Adult,High,161169
+168,Male,Bachelors,Chicago,Single,Adult,Low,254542
+169,Male,Masters,Los Angeles,Married,Senior,High,229744
+170,Female,Masters,Houston,Divorced,Senior,Low,472828
+171,Female,PhD,Chicago,Married,Senior,Medium,159821
+172,Male,Masters,Los Angeles,Married,Young Adult,Low,317741
+173,Male,Masters,New York,Married,Senior,High,349265
+174,Female,Masters,Los Angeles,Divorced,Teen,High,497745
+175,Female,High School,New York,Married,Adult,Low,314127
+176,Female,Masters,Chicago,Married,Young Adult,Medium,374336
+177,Male,Masters,Houston,Single,Senior,Medium,436246
+178,Male,PhD,Houston,Divorced,Young Adult,High,303834
+179,Male,Masters,Chicago,Married,Senior,Low,334538
+180,Male,Masters,Houston,Divorced,Young Adult,Medium,477038
+181,Male,Bachelors,Houston,Married,Adult,Medium,186795
+182,Male,PhD,New York,Married,Adult,High,265159
+183,Female,PhD,Chicago,Married,Teen,Medium,428821
+184,Male,PhD,Los Angeles,Single,Teen,Low,235699
+185,Male,PhD,New York,Single,Senior,High,343877
+186,Male,PhD,Chicago,Single,Adult,High,299298
+187,Female,PhD,New York,Divorced,Young Adult,Low,496471
+188,Male,High School,Los Angeles,Divorced,Young Adult,High,288505
+189,Male,Masters,Los Angeles,Single,Young Adult,Medium,236285
+190,Female,PhD,Chicago,Divorced,Teen,Medium,202412
+191,Male,Masters,Los Angeles,Married,Young Adult,Low,119404
+192,Male,Masters,New York,Married,Teen,Medium,216545
+193,Male,High School,Los Angeles,Married,Teen,Low,322128
+194,Male,PhD,New York,Single,Senior,Low,250245
+195,Male,Bachelors,New York,Divorced,Young Adult,Medium,284099
+196,Female,High School,Los Angeles,Single,Young Adult,Low,386133
+197,Female,Bachelors,Chicago,Divorced,Adult,Medium,361657
+198,Female,Masters,Houston,Married,Senior,High,470250
+199,Male,Masters,Los Angeles,Single,Adult,High,386663
+200,Male,High School,New York,Divorced,Senior,Low,356875
+201,Male,High School,New York,Divorced,Young Adult,Medium,384583
+202,Female,Bachelors,Los Angeles,Married,Teen,Medium,480714
+203,Male,PhD,Chicago,Single,Teen,High,114995
+204,Male,Bachelors,Chicago,Single,Teen,High,123559
+205,Female,High School,New York,Single,Teen,Medium,451193
+206,Male,Bachelors,New York,Married,Teen,Low,498237
+207,Female,High School,Chicago,Single,Adult,High,198000
+208,Female,Bachelors,Houston,Married,Senior,Low,252191
+209,Female,High School,Los Angeles,Married,Young Adult,Low,401494
+210,Male,High School,New York,Married,Adult,High,125517
+211,Male,High School,New York,Divorced,Senior,Low,315558
+212,Male,PhD,Chicago,Single,Teen,Low,451276
+213,Male,Bachelors,Los Angeles,Single,Senior,Medium,421690
+214,Male,Bachelors,Chicago,Married,Senior,Low,205686
+215,Male,Bachelors,Los Angeles,Married,Teen,Medium,188151
+216,Male,High School,Los Angeles,Single,Teen,High,365471
+217,Female,Bachelors,Los Angeles,Married,Teen,High,220318
+218,Male,Bachelors,New York,Single,Young Adult,Medium,295490
+219,Female,High School,Houston,Divorced,Teen,High,273860
+220,Male,Masters,Chicago,Married,Young Adult,Low,215945
+221,Male,High School,Houston,Single,Teen,Low,313456
+222,Male,Bachelors,Chicago,Married,Young Adult,Low,408974
+223,Female,High School,Los Angeles,Single,Senior,High,152446
+224,Female,Masters,New York,Single,Adult,Low,287655
+225,Female,High School,Houston,Married,Senior,High,240148
+226,Female,Bachelors,New York,Divorced,Senior,Low,169341
+227,Male,Masters,Chicago,Single,Teen,Medium,131085
+228,Female,PhD,New York,Single,Young Adult,High,417715
+229,Male,Bachelors,New York,Single,Adult,High,490452
+230,Male,Masters,Houston,Divorced,Teen,Low,105750
+231,Female,Masters,Los Angeles,Divorced,Teen,High,476075
+232,Female,PhD,New York,Married,Teen,High,440912
+233,Female,High School,Los Angeles,Divorced,Senior,Medium,135903
+234,Female,High School,Chicago,Married,Young Adult,Medium,303561
+235,Female,Bachelors,New York,Married,Young Adult,Low,191036
+236,Female,PhD,Houston,Divorced,Adult,Medium,187954
+237,Female,High School,Chicago,Married,Young Adult,Low,445158
+238,Female,PhD,Chicago,Divorced,Young Adult,Low,217305
+239,Male,High School,Houston,Married,Teen,Low,300753
+240,Female,Masters,New York,Divorced,Teen,High,132101
+241,Female,High School,New York,Divorced,Senior,Medium,102775
+242,Male,PhD,Chicago,Married,Teen,Low,211497
+243,Female,Masters,New York,Single,Teen,Medium,145619
+244,Male,Masters,Los Angeles,Married,Teen,Low,352388
+245,Male,Masters,Houston,Divorced,Teen,Medium,333346
+246,Female,PhD,Los Angeles,Single,Senior,Medium,419268
+247,Male,Bachelors,New York,Married,Teen,Low,165149
+248,Male,Bachelors,Chicago,Married,Adult,High,126616
+249,Male,Bachelors,Houston,Married,Adult,Medium,321767
+250,Male,PhD,New York,Single,Adult,High,285639
+251,Female,Masters,New York,Divorced,Adult,High,268171
+252,Male,Bachelors,Chicago,Married,Teen,Low,306903
+253,Female,PhD,Chicago,Married,Adult,Low,331318
+254,Male,Bachelors,Los Angeles,Married,Teen,Low,423943
+255,Male,High School,Houston,Married,Senior,Medium,452365
+256,Male,Bachelors,Houston,Married,Adult,Low,477023
+257,Male,Bachelors,Chicago,Divorced,Young Adult,Low,387623
+258,Female,Masters,Los Angeles,Divorced,Adult,Medium,461309
+259,Female,PhD,Houston,Married,Adult,Medium,155863
+260,Male,Masters,Chicago,Single,Teen,Low,273115
+261,Male,Masters,New York,Divorced,Adult,Low,444713
+262,Female,Masters,Houston,Single,Young Adult,Low,353347
+263,Male,Masters,Los Angeles,Divorced,Teen,Low,289052
+264,Male,Masters,Los Angeles,Married,Teen,High,378495
+265,Male,Bachelors,Los Angeles,Divorced,Senior,High,235203
+266,Female,Masters,New York,Married,Senior,Low,347908
+267,Female,Masters,Houston,Divorced,Adult,High,406969
+268,Female,PhD,Houston,Married,Senior,Medium,373493
+269,Male,High School,New York,Married,Senior,High,292003
+270,Male,Bachelors,Houston,Married,Senior,High,406398
+271,Female,Bachelors,New York,Married,Teen,Low,400369
+272,Female,Bachelors,New York,Single,Teen,High,374597
+273,Female,Masters,New York,Married,Teen,High,249886
+274,Female,Masters,Los Angeles,Single,Senior,High,249335
+275,Male,Masters,Houston,Single,Teen,High,177694
+276,Female,PhD,New York,Married,Senior,Medium,115735
+277,Male,High School,Houston,Single,Teen,Low,410037
+278,Female,Masters,Los Angeles,Divorced,Teen,Low,275745
+279,Male,High School,New York,Married,Young Adult,Medium,489150
+280,Female,PhD,Chicago,Single,Adult,High,320534
+281,Female,Bachelors,Los Angeles,Married,Senior,Medium,145066
+282,Female,Masters,Chicago,Married,Young Adult,High,331387
+283,Female,High School,Houston,Married,Teen,Medium,234445
+284,Male,High School,Houston,Single,Senior,Low,372836
+285,Female,Masters,Los Angeles,Divorced,Teen,Low,145541
+286,Male,Bachelors,Houston,Divorced,Adult,Low,265129
+287,Male,Bachelors,Chicago,Single,Young Adult,High,166983
+288,Male,Bachelors,New York,Married,Adult,High,250655
+289,Male,PhD,New York,Single,Young Adult,Medium,253837
+290,Female,High School,New York,Single,Teen,Medium,290359
+291,Male,High School,Los Angeles,Single,Adult,Low,482891
+292,Male,High School,Houston,Married,Adult,High,447247
+293,Male,PhD,Chicago,Single,Teen,Medium,310747
+294,Female,High School,Houston,Married,Adult,High,277597
+295,Female,PhD,Houston,Single,Senior,High,269302
+296,Female,Bachelors,Houston,Divorced,Young Adult,Low,387710
+297,Female,Masters,New York,Single,Young Adult,Low,435337
+298,Male,High School,Chicago,Single,Young Adult,High,352084
+299,Male,High School,Chicago,Divorced,Senior,High,221015
+300,Female,Bachelors,Houston,Married,Young Adult,High,272257
+301,Male,Masters,New York,Married,Teen,High,346536
+302,Male,PhD,New York,Single,Adult,Low,324021
+303,Male,Masters,Chicago,Divorced,Senior,Medium,230956
+304,Female,Bachelors,New York,Married,Young Adult,Low,170744
+305,Female,Bachelors,New York,Single,Teen,Medium,395599
+306,Male,Masters,New York,Divorced,Adult,High,416363
+307,Female,PhD,Los Angeles,Married,Adult,Medium,408135
+308,Female,PhD,Houston,Married,Senior,Low,173616
+309,Female,High School,Chicago,Divorced,Senior,Low,187438
+310,Female,PhD,Chicago,Divorced,Senior,High,216841
+311,Female,Masters,Los Angeles,Divorced,Teen,Low,240558
+312,Male,Bachelors,Houston,Divorced,Teen,High,269934
+313,Female,High School,Chicago,Single,Senior,Low,352734
+314,Male,High School,New York,Divorced,Young Adult,Low,158870
+315,Male,Bachelors,Chicago,Married,Adult,High,186694
+316,Female,PhD,New York,Married,Adult,Medium,337068
+317,Male,Bachelors,Los Angeles,Single,Teen,Low,406000
+318,Male,PhD,New York,Married,Adult,Medium,201407
+319,Male,Bachelors,Chicago,Married,Young Adult,Low,131379
+320,Female,Masters,Chicago,Divorced,Adult,Low,426873
+321,Female,PhD,Chicago,Married,Teen,Low,336500
+322,Male,Masters,Los Angeles,Single,Teen,Low,154353
+323,Female,High School,Los Angeles,Divorced,Young Adult,Medium,281068
+324,Female,Bachelors,Houston,Divorced,Young Adult,Medium,376175
+325,Female,High School,Chicago,Single,Adult,Low,311144
+326,Female,High School,New York,Divorced,Adult,Low,165982
+327,Male,High School,Los Angeles,Divorced,Teen,Medium,136683
+328,Male,High School,Chicago,Single,Young Adult,High,214091
+329,Female,Bachelors,Chicago,Divorced,Young Adult,High,217797
+330,Female,High School,Los Angeles,Single,Young Adult,Medium,106587
+331,Male,Bachelors,Houston,Single,Adult,Low,424934
+332,Male,Bachelors,Los Angeles,Married,Young Adult,Low,393624
+333,Female,Masters,Los Angeles,Married,Teen,High,329602
+334,Male,PhD,New York,Divorced,Teen,High,251599
+335,Female,PhD,New York,Divorced,Adult,Medium,385713
+336,Female,Bachelors,Houston,Single,Senior,High,373295
+337,Male,Masters,Chicago,Divorced,Adult,Medium,290246
+338,Male,Bachelors,Los Angeles,Single,Senior,High,144739
+339,Female,Bachelors,Houston,Single,Young Adult,High,132954
+340,Female,Bachelors,New York,Divorced,Adult,High,343935
+341,Male,Masters,Los Angeles,Single,Teen,Low,209373
+342,Female,PhD,Chicago,Married,Young Adult,Low,134700
+343,Male,Masters,New York,Divorced,Teen,Low,223728
+344,Female,High School,New York,Married,Young Adult,High,428932
+345,Male,Masters,New York,Divorced,Adult,Medium,171045
+346,Male,Masters,Houston,Single,Senior,Medium,244972
+347,Male,Masters,Chicago,Divorced,Young Adult,Medium,490136
+348,Female,Masters,Los Angeles,Married,Senior,Medium,442203
+349,Female,PhD,Houston,Single,Young Adult,Low,101881
+350,Male,High School,Houston,Divorced,Teen,Low,494846
+351,Female,PhD,Houston,Divorced,Teen,High,382933
+352,Male,PhD,New York,Divorced,Young Adult,High,488227
+353,Male,Masters,Chicago,Married,Senior,Medium,188059
+354,Female,Bachelors,Houston,Married,Adult,Low,314566
+355,Female,Bachelors,Los Angeles,Divorced,Adult,Medium,408295
+356,Male,PhD,Chicago,Single,Teen,High,209388
+357,Female,PhD,Los Angeles,Single,Adult,High,298303
+358,Female,Masters,Chicago,Married,Teen,Medium,365406
+359,Male,PhD,Los Angeles,Single,Adult,High,429125
+360,Male,Masters,New York,Married,Young Adult,Medium,483095
+361,Female,Bachelors,Houston,Divorced,Teen,Low,485243
+362,Male,Bachelors,Los Angeles,Married,Teen,Medium,181972
+363,Male,High School,Chicago,Married,Young Adult,Low,437629
+364,Female,Bachelors,Houston,Divorced,Teen,Low,154722
+365,Male,PhD,Houston,Single,Adult,High,451643
+366,Male,Bachelors,Chicago,Married,Adult,High,281890
+367,Female,Masters,Los Angeles,Married,Teen,High,369045
+368,Female,Bachelors,New York,Divorced,Adult,Medium,217473
+369,Male,High School,New York,Single,Senior,Medium,370741
+370,Male,Bachelors,Los Angeles,Married,Teen,High,491775
+371,Female,Masters,Houston,Divorced,Young Adult,Medium,426053
+372,Female,Masters,Houston,Married,Senior,High,434535
+373,Female,PhD,Houston,Divorced,Teen,Medium,315286
+374,Female,Bachelors,Houston,Single,Young Adult,Low,425437
+375,Male,Masters,Los Angeles,Single,Adult,Low,343896
+376,Female,High School,Houston,Single,Young Adult,High,256877
+377,Female,PhD,Chicago,Single,Senior,Medium,111874
+378,Male,High School,Houston,Married,Adult,Medium,324137
+379,Female,Bachelors,New York,Married,Teen,Low,448546
+380,Male,Bachelors,Houston,Single,Adult,Low,376223
+381,Female,Bachelors,Los Angeles,Single,Teen,High,434923
+382,Female,PhD,New York,Single,Teen,Low,195408
+383,Female,Masters,Los Angeles,Married,Young Adult,High,220606
+384,Male,PhD,Los Angeles,Single,Young Adult,Low,220062
+385,Male,High School,New York,Single,Young Adult,Low,112100
+386,Female,PhD,Los Angeles,Single,Senior,Medium,419165
+387,Male,High School,Los Angeles,Divorced,Senior,Low,250872
+388,Male,PhD,Houston,Single,Young Adult,Low,490270
+389,Male,Masters,Chicago,Divorced,Senior,High,294472
+390,Male,High School,Los Angeles,Divorced,Adult,Low,454590
+391,Male,Bachelors,Los Angeles,Single,Adult,High,391581
+392,Male,Bachelors,Los Angeles,Divorced,Senior,Low,334196
+393,Female,PhD,Houston,Single,Senior,Low,307609
+394,Female,Bachelors,Chicago,Married,Adult,High,251014
+395,Male,High School,New York,Married,Teen,Medium,383006
+396,Female,Bachelors,Houston,Married,Adult,High,373813
+397,Female,Masters,Houston,Married,Adult,High,483363
+398,Female,Masters,Chicago,Divorced,Senior,High,284844
+399,Female,PhD,Chicago,Single,Adult,Medium,378060
+400,Male,High School,Houston,Single,Senior,Low,373022
+401,Female,Masters,New York,Single,Senior,High,365129
+402,Female,Masters,Houston,Married,Young Adult,High,304720
+403,Male,High School,Chicago,Married,Adult,Medium,141235
+404,Male,Bachelors,New York,Single,Teen,High,381075
+405,Female,Bachelors,Chicago,Married,Young Adult,Low,192876
+406,Female,PhD,New York,Single,Senior,Medium,100336
+407,Female,Bachelors,Los Angeles,Single,Senior,Low,405077
+408,Female,High School,Chicago,Single,Teen,Low,407680
+409,Female,Masters,Chicago,Single,Senior,Medium,169504
+410,Female,Bachelors,Houston,Single,Adult,High,199214
+411,Male,PhD,Chicago,Single,Young Adult,Low,282220
+412,Female,Bachelors,Chicago,Single,Senior,Low,213936
+413,Female,High School,Los Angeles,Married,Senior,Low,116279
+414,Male,PhD,Chicago,Single,Teen,Low,299737
+415,Male,Bachelors,Los Angeles,Single,Adult,Medium,203751
+416,Male,PhD,Los Angeles,Married,Senior,Medium,466577
+417,Male,High School,Los Angeles,Married,Teen,Low,171386
+418,Female,Masters,Los Angeles,Married,Senior,High,186124
+419,Female,High School,New York,Single,Teen,Low,467894
+420,Female,High School,Houston,Divorced,Teen,High,439629
+421,Female,High School,New York,Divorced,Adult,Low,436199
+422,Female,High School,Chicago,Married,Senior,High,191911
+423,Female,Masters,New York,Divorced,Adult,Low,460762
+424,Male,Masters,New York,Married,Teen,High,297742
+425,Female,PhD,Chicago,Single,Young Adult,Low,321094
+426,Male,Bachelors,Chicago,Divorced,Senior,Low,476036
+427,Male,Masters,Chicago,Single,Young Adult,High,337723
+428,Female,Masters,New York,Divorced,Senior,Medium,433272
+429,Male,Bachelors,New York,Single,Adult,High,414639
+430,Female,Masters,Chicago,Divorced,Adult,Medium,182806
+431,Male,High School,Houston,Single,Adult,Low,455329
+432,Female,High School,Houston,Single,Adult,High,307605
+433,Male,Bachelors,Los Angeles,Divorced,Adult,High,330097
+434,Female,PhD,Chicago,Single,Young Adult,High,297478
+435,Female,PhD,Los Angeles,Single,Adult,Medium,270591
+436,Female,Bachelors,Houston,Single,Teen,Medium,411793
+437,Female,Bachelors,Los Angeles,Divorced,Teen,Low,265596
+438,Female,High School,Chicago,Divorced,Young Adult,Medium,264957
+439,Male,PhD,Chicago,Single,Senior,Medium,332204
+440,Male,Masters,Chicago,Single,Teen,Low,457546
+441,Male,High School,New York,Divorced,Senior,High,392820
+442,Female,Bachelors,Los Angeles,Divorced,Young Adult,High,426237
+443,Male,PhD,Houston,Single,Senior,Low,281871
+444,Female,Masters,Houston,Single,Senior,High,441558
+445,Female,Masters,Houston,Single,Senior,Medium,455239
+446,Male,High School,New York,Married,Senior,Low,343154
+447,Male,PhD,New York,Divorced,Young Adult,Low,172307
+448,Female,PhD,Chicago,Married,Teen,Low,457576
+449,Male,Bachelors,Houston,Divorced,Adult,High,394067
+450,Female,PhD,New York,Divorced,Senior,Low,479593
+451,Female,PhD,Chicago,Divorced,Teen,Low,335998
+452,Female,High School,Houston,Divorced,Teen,Low,409718
+453,Female,PhD,Los Angeles,Divorced,Young Adult,High,221757
+454,Female,Masters,Chicago,Divorced,Teen,Medium,153664
+455,Male,High School,New York,Divorced,Young Adult,Low,429528
+456,Male,High School,New York,Married,Senior,Medium,393171
+457,Female,Bachelors,Chicago,Single,Senior,High,266536
+458,Female,PhD,Chicago,Single,Adult,High,396629
+459,Male,Bachelors,New York,Married,Adult,High,359438
+460,Male,Masters,Los Angeles,Married,Adult,High,250528
+461,Female,High School,Houston,Married,Teen,Medium,397698
+462,Male,High School,Los Angeles,Married,Senior,Low,409066
+463,Female,High School,Chicago,Divorced,Young Adult,High,375553
+464,Male,Masters,Los Angeles,Single,Adult,High,300399
+465,Female,Masters,New York,Divorced,Young Adult,Medium,322472
+466,Male,Bachelors,Chicago,Single,Young Adult,Medium,398783
+467,Female,Bachelors,Houston,Single,Adult,High,331182
+468,Male,Bachelors,New York,Married,Senior,Low,381836
+469,Male,PhD,New York,Divorced,Adult,Low,189037
+470,Female,High School,Houston,Married,Young Adult,High,309912
+471,Male,High School,Houston,Divorced,Adult,Medium,285272
+472,Female,Bachelors,Los Angeles,Single,Young Adult,High,324135
+473,Male,High School,Chicago,Married,Young Adult,High,288487
+474,Female,Bachelors,Houston,Married,Adult,Medium,118074
+475,Male,PhD,Houston,Single,Teen,High,246621
+476,Female,PhD,Chicago,Single,Adult,High,392107
+477,Male,Masters,Houston,Single,Teen,High,327434
+478,Female,PhD,Houston,Married,Young Adult,Medium,332679
+479,Male,Bachelors,Los Angeles,Divorced,Young Adult,Low,152265
+480,Female,PhD,New York,Married,Teen,Low,116061
+481,Female,Masters,New York,Divorced,Young Adult,Medium,259882
+482,Female,High School,New York,Married,Teen,Low,213502
+483,Male,Bachelors,New York,Married,Teen,High,384944
+484,Female,High School,Houston,Single,Young Adult,Low,478336
+485,Male,Masters,Chicago,Divorced,Senior,High,356505
+486,Female,Masters,Chicago,Married,Teen,Low,207228
+487,Male,Masters,Los Angeles,Married,Adult,Medium,306548
+488,Female,High School,Los Angeles,Single,Adult,Low,390198
+489,Male,High School,Houston,Single,Young Adult,Low,276469
+490,Male,High School,Chicago,Divorced,Senior,Low,113233
+491,Female,High School,Chicago,Married,Young Adult,Medium,342277
+492,Male,Masters,New York,Divorced,Senior,Low,256140
+493,Male,Masters,Houston,Married,Teen,Medium,427871
+494,Female,Bachelors,Houston,Divorced,Teen,High,452754
+495,Male,Bachelors,New York,Single,Teen,Low,432597
+496,Male,High School,Houston,Married,Teen,Medium,204135
+497,Male,PhD,Houston,Divorced,Adult,Medium,470608
+498,Female,PhD,Los Angeles,Single,Adult,Low,317314
+499,Male,Masters,Chicago,Single,Young Adult,High,113682
+500,Female,Masters,Houston,Divorced,Senior,Medium,254455
+501,Male,Masters,Los Angeles,Married,Teen,Low,420304
+502,Male,Bachelors,Chicago,Married,Teen,High,324404
+503,Male,Bachelors,New York,Single,Senior,Medium,385810
+504,Female,Masters,Los Angeles,Married,Senior,Medium,420961
+505,Male,Masters,Los Angeles,Married,Young Adult,High,191198
+506,Male,Masters,Chicago,Married,Senior,High,141830
+507,Female,PhD,New York,Single,Teen,Low,110234
+508,Male,Bachelors,Los Angeles,Divorced,Teen,Low,157616
+509,Female,PhD,Houston,Married,Teen,Medium,371365
+510,Female,PhD,Houston,Single,Teen,High,242482
+511,Male,Masters,Houston,Single,Teen,High,311127
+512,Female,Masters,New York,Divorced,Young Adult,High,292485
+513,Male,High School,Los Angeles,Married,Teen,Medium,101051
+514,Female,High School,Houston,Married,Young Adult,High,472673
+515,Female,PhD,New York,Divorced,Teen,High,176918
+516,Male,Bachelors,Houston,Divorced,Adult,Medium,178116
+517,Female,Masters,Chicago,Single,Adult,Low,484370
+518,Female,Masters,Los Angeles,Single,Adult,Low,328931
+519,Female,PhD,Los Angeles,Divorced,Adult,Medium,406901
+520,Female,High School,New York,Married,Young Adult,High,483152
+521,Female,Bachelors,New York,Single,Young Adult,Medium,308547
+522,Male,High School,Los Angeles,Single,Senior,Low,326572
+523,Female,High School,Houston,Married,Teen,Low,231379
+524,Male,High School,Houston,Single,Adult,Medium,156889
+525,Female,High School,Chicago,Married,Young Adult,Medium,326256
+526,Male,Masters,Houston,Married,Teen,Low,398088
+527,Male,Masters,New York,Married,Teen,Medium,461699
+528,Female,High School,New York,Divorced,Young Adult,Low,138134
+529,Female,Bachelors,Houston,Divorced,Adult,Medium,302834
+530,Female,PhD,New York,Divorced,Senior,Medium,327579
+531,Male,Bachelors,Los Angeles,Married,Teen,Medium,125954
+532,Female,Bachelors,Los Angeles,Married,Senior,Low,286093
+533,Male,Bachelors,Houston,Divorced,Adult,Medium,452103
+534,Male,High School,Los Angeles,Single,Adult,Low,326999
+535,Male,Masters,Los Angeles,Married,Senior,Low,310938
+536,Female,Bachelors,Chicago,Single,Adult,Medium,301499
+537,Female,High School,Chicago,Single,Teen,Medium,367136
+538,Male,Bachelors,Los Angeles,Married,Senior,Low,101961
+539,Male,Bachelors,Houston,Married,Adult,Low,112497
+540,Female,High School,Chicago,Single,Senior,High,356446
+541,Male,Masters,New York,Single,Teen,Low,375399
+542,Female,Masters,New York,Divorced,Adult,High,235639
+543,Male,PhD,New York,Divorced,Teen,High,410991
+544,Female,High School,Houston,Married,Adult,High,335889
+545,Male,PhD,Los Angeles,Divorced,Young Adult,Medium,279075
+546,Female,PhD,New York,Divorced,Adult,Medium,120389
+547,Male,PhD,Houston,Divorced,Senior,Low,275595
+548,Female,Masters,Chicago,Divorced,Adult,High,485946
+549,Female,High School,Los Angeles,Single,Teen,Medium,423720
+550,Male,PhD,Chicago,Married,Teen,Medium,406063
+551,Male,High School,Houston,Divorced,Adult,Medium,313175
+552,Female,High School,New York,Single,Senior,Medium,103358
+553,Male,Masters,New York,Single,Young Adult,Medium,450679
+554,Female,PhD,Houston,Single,Senior,High,352557
+555,Male,PhD,New York,Divorced,Young Adult,High,307596
+556,Female,High School,Los Angeles,Divorced,Teen,High,354488
+557,Female,Bachelors,Houston,Married,Senior,High,205982
+558,Female,Masters,Chicago,Divorced,Young Adult,Low,328129
+559,Female,Masters,Houston,Divorced,Adult,High,367842
+560,Female,Masters,Los Angeles,Single,Teen,Medium,428953
+561,Female,Masters,Los Angeles,Married,Adult,High,193079
+562,Male,PhD,Houston,Divorced,Teen,Low,155805
+563,Male,PhD,Houston,Divorced,Senior,Medium,262421
+564,Male,Bachelors,New York,Single,Senior,High,307849
+565,Female,Masters,Los Angeles,Single,Teen,High,437177
+566,Female,Masters,Houston,Divorced,Teen,High,338483
+567,Female,High School,Houston,Married,Teen,Medium,460383
+568,Female,PhD,Los Angeles,Married,Senior,Medium,492551
+569,Male,Masters,Houston,Single,Young Adult,Low,144041
+570,Male,Bachelors,New York,Single,Adult,Medium,394098
+571,Female,Bachelors,Los Angeles,Divorced,Adult,Medium,370146
+572,Male,PhD,New York,Single,Senior,High,431927
+573,Male,Bachelors,New York,Divorced,Adult,Medium,207524
+574,Female,Bachelors,New York,Married,Teen,High,318306
+575,Male,PhD,New York,Married,Young Adult,High,487001
+576,Female,Masters,Los Angeles,Divorced,Adult,Medium,119738
+577,Male,Masters,New York,Single,Young Adult,Low,372847
+578,Female,Bachelors,New York,Married,Teen,Low,213776
+579,Female,Bachelors,Houston,Single,Adult,Medium,280494
+580,Female,Masters,Los Angeles,Married,Senior,Low,292971
+581,Female,PhD,Los Angeles,Divorced,Young Adult,High,406868
+582,Male,Bachelors,Chicago,Divorced,Teen,High,394443
+583,Female,High School,Los Angeles,Divorced,Young Adult,Medium,377785
+584,Female,PhD,Los Angeles,Married,Adult,Low,441678
+585,Female,Bachelors,Chicago,Single,Adult,Low,368449
+586,Male,Bachelors,Los Angeles,Single,Senior,High,329334
+587,Female,High School,Los Angeles,Single,Teen,Medium,380926
+588,Male,High School,Los Angeles,Married,Teen,Low,440401
+589,Female,Masters,Los Angeles,Married,Senior,Medium,336371
+590,Male,PhD,Chicago,Married,Senior,Low,177963
+591,Male,PhD,Los Angeles,Married,Teen,High,221987
+592,Female,Masters,Los Angeles,Married,Young Adult,High,251638
+593,Male,PhD,Chicago,Single,Young Adult,Medium,224591
+594,Female,PhD,Houston,Married,Senior,High,167766
+595,Female,PhD,New York,Married,Young Adult,Low,106511
+596,Female,PhD,Houston,Single,Teen,High,214816
+597,Male,PhD,Chicago,Married,Adult,Medium,349432
+598,Male,High School,New York,Single,Adult,Medium,366909
+599,Female,PhD,Chicago,Single,Young Adult,Medium,251426
+600,Female,High School,Chicago,Divorced,Senior,Low,386073
+601,Male,PhD,Los Angeles,Divorced,Senior,Low,259892
+602,Female,Masters,New York,Divorced,Senior,Low,211576
+603,Female,Bachelors,Los Angeles,Divorced,Senior,Low,171088
+604,Female,High School,New York,Married,Senior,Low,177525
+605,Male,PhD,Chicago,Divorced,Young Adult,High,113780
+606,Male,Masters,Chicago,Single,Adult,Low,368733
+607,Male,Bachelors,Houston,Married,Adult,Low,455808
+608,Female,High School,New York,Divorced,Young Adult,High,204188
+609,Female,Bachelors,Los Angeles,Single,Senior,Low,193326
+610,Female,Masters,Houston,Married,Young Adult,Medium,403097
+611,Male,High School,Houston,Married,Adult,Low,165785
+612,Female,Bachelors,Houston,Divorced,Teen,Low,119309
+613,Female,PhD,Los Angeles,Married,Young Adult,Medium,154195
+614,Female,High School,Houston,Single,Senior,Medium,125901
+615,Female,Bachelors,Los Angeles,Married,Adult,Medium,254648
+616,Male,Masters,Houston,Single,Adult,Medium,125464
+617,Male,Masters,Los Angeles,Married,Adult,Low,378404
+618,Female,High School,Chicago,Divorced,Adult,Medium,224997
+619,Male,Bachelors,Chicago,Single,Senior,Medium,397584
+620,Male,High School,Chicago,Married,Teen,High,457226
+621,Female,High School,Chicago,Married,Adult,Medium,467727
+622,Female,Bachelors,Chicago,Married,Young Adult,Medium,156683
+623,Male,Bachelors,Houston,Single,Teen,High,486350
+624,Female,PhD,Houston,Single,Adult,High,272502
+625,Male,Bachelors,Houston,Single,Teen,Low,495203
+626,Female,Masters,Los Angeles,Divorced,Young Adult,High,256177
+627,Male,High School,Los Angeles,Divorced,Adult,Low,178484
+628,Female,High School,Los Angeles,Single,Young Adult,High,349819
+629,Male,Masters,Los Angeles,Married,Senior,High,430453
+630,Male,Bachelors,Chicago,Divorced,Adult,Low,408071
+631,Male,Masters,Chicago,Single,Adult,High,306486
+632,Female,Masters,Chicago,Married,Adult,Low,405090
+633,Male,PhD,New York,Divorced,Adult,High,488647
+634,Male,Masters,Houston,Married,Senior,Medium,241449
+635,Female,High School,Los Angeles,Married,Adult,High,153592
+636,Female,Masters,Los Angeles,Married,Teen,Low,238419
+637,Male,High School,Chicago,Married,Adult,High,395920
+638,Male,High School,Los Angeles,Divorced,Senior,Low,496999
+639,Female,High School,Los Angeles,Divorced,Adult,Low,155798
+640,Female,Bachelors,Houston,Divorced,Teen,Medium,235370
+641,Female,PhD,Chicago,Single,Senior,Medium,432348
+642,Female,High School,Houston,Divorced,Senior,Low,448351
+643,Female,High School,New York,Married,Teen,High,462500
+644,Male,Bachelors,New York,Divorced,Teen,Low,422796
+645,Female,High School,New York,Married,Teen,Low,491716
+646,Male,Masters,Chicago,Single,Teen,High,343767
+647,Male,Masters,Los Angeles,Married,Teen,High,120922
+648,Male,PhD,Chicago,Married,Senior,High,439140
+649,Female,High School,Chicago,Married,Senior,High,392410
+650,Male,Bachelors,Los Angeles,Single,Adult,Low,326817
+651,Male,Masters,Houston,Divorced,Adult,Low,102866
+652,Female,Bachelors,New York,Divorced,Young Adult,Medium,212669
+653,Male,Bachelors,Houston,Single,Adult,Low,368042
+654,Male,Masters,New York,Married,Adult,High,380539
+655,Female,Bachelors,Chicago,Divorced,Teen,Medium,270091
+656,Male,Masters,New York,Single,Teen,High,366150
+657,Male,Bachelors,Chicago,Divorced,Adult,Low,265465
+658,Male,Masters,Houston,Single,Young Adult,Medium,373100
+659,Female,High School,Chicago,Married,Teen,High,499294
+660,Female,PhD,Houston,Divorced,Adult,Medium,457820
+661,Female,Masters,Los Angeles,Single,Adult,Medium,221724
+662,Male,Masters,Los Angeles,Divorced,Senior,Low,162901
+663,Male,PhD,Los Angeles,Divorced,Young Adult,High,469371
+664,Female,Masters,Chicago,Divorced,Senior,Medium,300569
+665,Male,Masters,Los Angeles,Divorced,Young Adult,Medium,217192
+666,Male,Bachelors,New York,Single,Teen,High,272646
+667,Female,PhD,Houston,Married,Young Adult,Medium,393561
+668,Female,High School,Houston,Single,Adult,Medium,450164
+669,Male,Masters,New York,Single,Adult,Medium,445783
+670,Male,PhD,Chicago,Single,Young Adult,High,194881
+671,Male,Bachelors,Chicago,Married,Young Adult,High,342934
+672,Female,High School,Houston,Divorced,Young Adult,High,232659
+673,Female,PhD,Los Angeles,Divorced,Senior,High,221688
+674,Female,High School,Chicago,Divorced,Young Adult,Low,215584
+675,Female,High School,Chicago,Married,Teen,Medium,285782
+676,Male,High School,New York,Divorced,Senior,High,448711
+677,Female,Masters,New York,Married,Senior,Medium,322820
+678,Female,Masters,Los Angeles,Divorced,Young Adult,Medium,438030
+679,Female,Bachelors,Chicago,Divorced,Teen,Low,316896
+680,Female,Bachelors,Chicago,Single,Senior,High,391576
+681,Female,PhD,New York,Married,Adult,High,279689
+682,Male,Bachelors,Chicago,Single,Senior,Medium,434517
+683,Male,High School,Houston,Single,Young Adult,High,265289
+684,Female,High School,New York,Single,Teen,Medium,383028
+685,Male,Masters,Los Angeles,Married,Young Adult,Medium,367598
+686,Female,High School,New York,Married,Adult,Low,174960
+687,Female,PhD,Chicago,Divorced,Adult,Low,202421
+688,Male,High School,Los Angeles,Single,Adult,Low,338245
+689,Male,High School,New York,Divorced,Young Adult,Medium,143618
+690,Female,PhD,Houston,Single,Senior,High,147111
+691,Female,Bachelors,Houston,Married,Young Adult,Low,316750
+692,Female,Bachelors,New York,Married,Teen,High,220592
+693,Male,PhD,Houston,Married,Senior,Low,334000
+694,Female,Masters,Houston,Single,Adult,Low,355989
+695,Female,High School,Houston,Married,Young Adult,Medium,422137
+696,Female,PhD,Los Angeles,Single,Adult,Low,228652
+697,Male,High School,Houston,Divorced,Adult,Low,178672
+698,Female,Masters,Houston,Single,Teen,Medium,350351
+699,Female,High School,Houston,Divorced,Senior,High,428269
+700,Male,PhD,Los Angeles,Single,Teen,Low,317516
+701,Female,High School,New York,Divorced,Teen,Medium,479653
+702,Female,Bachelors,Chicago,Married,Teen,Low,161602
+703,Male,Masters,Houston,Divorced,Adult,Medium,303117
+704,Female,Masters,New York,Married,Teen,High,337069
+705,Male,Masters,Houston,Married,Teen,High,142222
+706,Male,PhD,Los Angeles,Divorced,Senior,Medium,411367
+707,Female,Masters,New York,Single,Senior,Medium,341084
+708,Female,Bachelors,Los Angeles,Single,Teen,Medium,342318
+709,Female,PhD,Houston,Single,Senior,High,165333
+710,Female,Bachelors,Houston,Single,Senior,Low,283804
+711,Male,High School,Los Angeles,Single,Teen,High,484794
+712,Female,High School,Chicago,Married,Adult,Medium,149420
+713,Male,High School,Los Angeles,Single,Teen,Medium,175504
+714,Female,High School,Houston,Married,Senior,High,102462
+715,Female,Bachelors,Los Angeles,Married,Adult,Medium,371604
+716,Female,PhD,Chicago,Married,Young Adult,High,199319
+717,Male,PhD,Los Angeles,Divorced,Adult,Medium,356674
+718,Female,Masters,Chicago,Divorced,Senior,Low,240347
+719,Female,Bachelors,Chicago,Married,Adult,Low,244341
+720,Female,High School,Los Angeles,Divorced,Teen,Medium,229593
+721,Female,Bachelors,Los Angeles,Single,Young Adult,High,222672
+722,Male,Masters,New York,Single,Young Adult,Low,435064
+723,Female,Masters,Houston,Married,Young Adult,High,384697
+724,Male,Bachelors,Chicago,Single,Senior,Medium,144036
+725,Male,Bachelors,New York,Married,Senior,High,248441
+726,Male,Bachelors,Los Angeles,Married,Young Adult,Low,242867
+727,Male,PhD,Houston,Single,Adult,High,170021
+728,Male,High School,New York,Divorced,Young Adult,High,469349
+729,Male,Bachelors,Chicago,Single,Adult,Medium,261215
+730,Female,Bachelors,New York,Single,Adult,Medium,450353
+731,Male,Bachelors,Chicago,Married,Senior,Medium,437283
+732,Male,Masters,Los Angeles,Married,Adult,Low,336304
+733,Male,Masters,Houston,Married,Young Adult,Low,105368
+734,Female,PhD,Houston,Married,Senior,Medium,235693
+735,Female,High School,Houston,Divorced,Teen,Medium,158829
+736,Male,PhD,Los Angeles,Divorced,Teen,Low,491180
+737,Female,High School,Chicago,Divorced,Senior,Low,376863
+738,Male,Masters,Los Angeles,Married,Young Adult,Low,129227
+739,Male,Masters,Houston,Married,Teen,Low,209430
+740,Female,Masters,Los Angeles,Married,Teen,Medium,112306
+741,Male,PhD,Los Angeles,Divorced,Adult,Low,153822
+742,Female,Bachelors,Los Angeles,Married,Adult,Medium,124042
+743,Female,Bachelors,Chicago,Single,Young Adult,High,248459
+744,Male,Masters,New York,Single,Senior,High,189424
+745,Male,Bachelors,New York,Married,Young Adult,Low,282690
+746,Female,Bachelors,Los Angeles,Single,Senior,High,323122
+747,Male,PhD,New York,Single,Teen,High,249395
+748,Male,High School,New York,Divorced,Adult,High,118019
+749,Male,Masters,Los Angeles,Married,Young Adult,Low,437570
+750,Female,Masters,Los Angeles,Married,Young Adult,Low,140863
+751,Female,PhD,Houston,Divorced,Senior,High,211023
+752,Male,PhD,New York,Single,Senior,Medium,241355
+753,Female,Bachelors,Chicago,Single,Young Adult,High,409143
+754,Female,Masters,Los Angeles,Married,Senior,Low,162780
+755,Female,High School,Houston,Single,Young Adult,Low,385052
+756,Female,PhD,Chicago,Divorced,Young Adult,Low,292656
+757,Female,High School,New York,Divorced,Young Adult,High,488422
+758,Male,High School,Houston,Married,Teen,Medium,475146
+759,Male,Masters,Los Angeles,Divorced,Senior,Low,269024
+760,Male,Masters,Chicago,Divorced,Adult,Low,200706
+761,Female,PhD,Los Angeles,Married,Adult,High,268735
+762,Female,Masters,New York,Divorced,Senior,Medium,222019
+763,Male,Masters,Chicago,Divorced,Young Adult,High,471852
+764,Female,Masters,New York,Divorced,Adult,Low,292453
+765,Male,High School,New York,Single,Adult,Medium,279001
+766,Male,PhD,Houston,Married,Senior,Medium,371487
+767,Male,Bachelors,Los Angeles,Married,Adult,Low,438317
+768,Female,High School,Chicago,Married,Young Adult,Medium,200260
+769,Female,Masters,New York,Single,Senior,Medium,270863
+770,Male,High School,New York,Single,Young Adult,High,260206
+771,Male,Masters,Chicago,Married,Adult,Low,278173
+772,Male,Masters,New York,Single,Adult,Low,169443
+773,Male,High School,Houston,Married,Young Adult,Low,330183
+774,Female,PhD,Houston,Single,Teen,Low,419674
+775,Female,Masters,Houston,Divorced,Adult,Low,235899
+776,Male,PhD,Houston,Divorced,Teen,Medium,196143
+777,Male,Bachelors,New York,Married,Adult,High,293725
+778,Female,Masters,Chicago,Single,Teen,Low,244771
+779,Female,PhD,Chicago,Single,Teen,High,476671
+780,Male,PhD,Chicago,Divorced,Teen,High,348044
+781,Male,Bachelors,Chicago,Divorced,Young Adult,Medium,236385
+782,Male,PhD,Los Angeles,Single,Teen,Low,244670
+783,Female,PhD,Chicago,Single,Teen,Medium,211362
+784,Female,Bachelors,Los Angeles,Single,Teen,Low,346517
+785,Female,Masters,Los Angeles,Single,Adult,Medium,390951
+786,Male,PhD,Houston,Single,Teen,High,300462
+787,Male,PhD,Los Angeles,Single,Adult,Low,276298
+788,Female,PhD,New York,Married,Teen,High,159550
+789,Female,High School,Los Angeles,Single,Teen,High,365702
+790,Male,Bachelors,Houston,Divorced,Young Adult,Medium,412257
+791,Female,High School,Los Angeles,Married,Adult,Low,415143
+792,Female,Bachelors,New York,Single,Teen,High,286950
+793,Male,Masters,New York,Divorced,Adult,Medium,158219
+794,Female,Masters,New York,Married,Adult,Low,266258
+795,Male,PhD,Houston,Divorced,Senior,Low,264841
+796,Male,Bachelors,Houston,Single,Young Adult,High,351004
+797,Male,Masters,Chicago,Single,Young Adult,Low,357336
+798,Male,Bachelors,Houston,Single,Young Adult,High,336495
+799,Male,Masters,New York,Single,Senior,Low,153218
+800,Male,High School,New York,Married,Senior,Medium,381373
+801,Male,Masters,Houston,Married,Young Adult,High,437353
+802,Female,High School,Los Angeles,Divorced,Senior,High,127877
+803,Male,Masters,Houston,Single,Senior,Low,289073
+804,Male,PhD,Houston,Divorced,Senior,Low,459281
+805,Female,High School,New York,Married,Young Adult,High,400228
+806,Female,Masters,Chicago,Single,Young Adult,Low,443924
+807,Female,PhD,New York,Single,Young Adult,Medium,247878
+808,Male,High School,Chicago,Married,Senior,Low,319707
+809,Female,PhD,New York,Married,Young Adult,Medium,341249
+810,Male,Bachelors,Houston,Married,Senior,Medium,137034
+811,Male,Bachelors,New York,Married,Teen,Medium,271389
+812,Male,High School,New York,Married,Senior,Medium,417612
+813,Male,Masters,New York,Single,Adult,Medium,288868
+814,Female,High School,Houston,Married,Young Adult,Low,110589
+815,Female,PhD,Houston,Single,Young Adult,Medium,157221
+816,Male,Masters,Houston,Single,Adult,Low,355927
+817,Male,Bachelors,Houston,Married,Senior,Medium,363801
+818,Male,Masters,Chicago,Married,Teen,High,460444
+819,Female,Bachelors,Chicago,Single,Adult,Medium,217229
+820,Male,Masters,Los Angeles,Married,Adult,High,401675
+821,Male,Masters,Houston,Married,Senior,Medium,152227
+822,Female,Masters,Chicago,Married,Young Adult,Medium,365308
+823,Female,PhD,New York,Divorced,Senior,Medium,193078
+824,Male,PhD,Houston,Single,Adult,High,403391
+825,Female,High School,Los Angeles,Divorced,Adult,High,335113
+826,Female,High School,Los Angeles,Married,Young Adult,Medium,150599
+827,Male,Bachelors,Los Angeles,Divorced,Young Adult,Low,346367
+828,Female,PhD,New York,Married,Young Adult,Medium,497768
+829,Male,Bachelors,Chicago,Divorced,Senior,High,289651
+830,Female,High School,New York,Married,Young Adult,Medium,168207
+831,Male,Bachelors,Houston,Divorced,Adult,High,434199
+832,Male,High School,Los Angeles,Divorced,Adult,High,464410
+833,Male,PhD,New York,Divorced,Teen,High,440414
+834,Female,Masters,New York,Single,Senior,Medium,211426
+835,Male,PhD,Chicago,Divorced,Teen,High,234794
+836,Female,Bachelors,Chicago,Single,Adult,High,432586
+837,Male,Bachelors,Los Angeles,Married,Teen,Medium,457776
+838,Male,PhD,New York,Divorced,Adult,High,271103
+839,Female,PhD,New York,Married,Teen,Medium,310307
+840,Male,High School,Chicago,Married,Young Adult,High,121438
+841,Male,Bachelors,New York,Divorced,Teen,Low,158819
+842,Female,Bachelors,New York,Single,Young Adult,Low,143856
+843,Male,PhD,New York,Divorced,Young Adult,High,404082
+844,Male,Masters,Chicago,Married,Senior,Low,159807
+845,Male,Bachelors,Los Angeles,Married,Young Adult,Medium,412021
+846,Male,Masters,Houston,Divorced,Young Adult,Low,143461
+847,Female,PhD,Los Angeles,Single,Teen,High,193474
+848,Female,PhD,Houston,Single,Adult,High,445280
+849,Male,High School,New York,Married,Senior,Medium,382579
+850,Female,Bachelors,Los Angeles,Married,Young Adult,High,315189
+851,Male,Masters,Houston,Single,Senior,Medium,446870
+852,Female,High School,Chicago,Divorced,Teen,Low,354730
+853,Male,Bachelors,Chicago,Married,Young Adult,Low,346732
+854,Male,High School,Los Angeles,Single,Teen,Medium,262793
+855,Male,PhD,Los Angeles,Married,Senior,Medium,154786
+856,Male,Bachelors,New York,Divorced,Teen,High,375848
+857,Male,High School,Los Angeles,Single,Senior,Low,156635
+858,Male,High School,New York,Married,Teen,Medium,495339
+859,Female,Masters,New York,Divorced,Senior,Low,452854
+860,Male,High School,Chicago,Married,Adult,Medium,340909
+861,Female,Bachelors,Chicago,Divorced,Teen,Low,345984
+862,Male,Bachelors,Houston,Divorced,Teen,High,425137
+863,Female,Masters,Chicago,Single,Adult,Low,212752
+864,Female,Bachelors,Chicago,Divorced,Adult,Low,311194
+865,Female,PhD,Los Angeles,Married,Teen,Low,328584
+866,Male,Bachelors,Chicago,Divorced,Adult,Low,232886
+867,Male,Bachelors,Houston,Divorced,Young Adult,Low,178537
+868,Female,High School,Los Angeles,Single,Senior,High,412402
+869,Male,High School,Houston,Divorced,Senior,Medium,247580
+870,Female,Bachelors,Chicago,Divorced,Senior,Low,185166
+871,Male,Masters,Houston,Married,Young Adult,High,309988
+872,Female,High School,Los Angeles,Single,Adult,Low,475854
+873,Female,Masters,New York,Single,Adult,Low,397843
+874,Male,Bachelors,Houston,Single,Teen,Medium,408479
+875,Female,Bachelors,Houston,Divorced,Adult,Low,408950
+876,Male,PhD,Los Angeles,Single,Teen,High,439997
+877,Female,High School,Los Angeles,Divorced,Young Adult,High,294840
+878,Female,Bachelors,Houston,Divorced,Senior,Medium,397883
+879,Male,PhD,Chicago,Married,Senior,Low,134785
+880,Male,High School,Houston,Married,Senior,High,263052
+881,Male,Bachelors,Los Angeles,Married,Adult,Low,331791
+882,Female,Bachelors,New York,Married,Teen,Low,447160
+883,Male,High School,New York,Married,Teen,Low,494825
+884,Female,High School,Chicago,Divorced,Young Adult,Medium,166253
+885,Female,High School,Houston,Divorced,Adult,Low,191128
+886,Male,Bachelors,New York,Single,Young Adult,High,261081
+887,Male,Bachelors,Houston,Divorced,Teen,Low,489725
+888,Female,PhD,Los Angeles,Divorced,Teen,High,210966
+889,Female,Masters,New York,Married,Senior,Low,237854
+890,Male,High School,Chicago,Divorced,Adult,High,199352
+891,Male,Bachelors,Los Angeles,Married,Teen,High,439298
+892,Male,Bachelors,Chicago,Single,Senior,Low,239379
+893,Male,High School,Los Angeles,Single,Adult,Low,323279
+894,Male,Masters,New York,Divorced,Young Adult,High,337281
+895,Female,High School,Chicago,Single,Adult,Medium,208297
+896,Female,Masters,Chicago,Divorced,Adult,Low,306946
+897,Female,Bachelors,Los Angeles,Single,Teen,Medium,138346
+898,Female,Masters,Chicago,Married,Teen,Low,212138
+899,Male,PhD,Los Angeles,Married,Adult,Low,412916
+900,Male,Bachelors,Los Angeles,Married,Teen,Low,140149
+901,Male,PhD,Los Angeles,Married,Teen,Low,448844
+902,Female,High School,Los Angeles,Divorced,Teen,Medium,258598
+903,Female,High School,New York,Single,Senior,Low,458902
+904,Male,High School,Los Angeles,Divorced,Senior,High,228447
+905,Male,Masters,Houston,Married,Adult,High,105695
+906,Female,Bachelors,Chicago,Divorced,Teen,Medium,139169
+907,Female,High School,Houston,Single,Senior,Low,410091
+908,Male,High School,New York,Divorced,Adult,High,278296
+909,Male,Bachelors,Houston,Single,Teen,Medium,408009
+910,Female,High School,Chicago,Divorced,Young Adult,Low,256625
+911,Male,PhD,Houston,Single,Teen,High,466645
+912,Male,Bachelors,New York,Single,Teen,High,422554
+913,Male,Bachelors,Los Angeles,Married,Senior,Medium,465898
+914,Female,Bachelors,Houston,Single,Adult,Low,453039
+915,Female,PhD,New York,Married,Adult,Low,286098
+916,Female,Bachelors,New York,Married,Senior,High,412849
+917,Female,PhD,Chicago,Married,Teen,High,292994
+918,Female,Bachelors,Chicago,Divorced,Young Adult,High,477844
+919,Female,Masters,Houston,Divorced,Teen,Low,436058
+920,Female,High School,Los Angeles,Divorced,Teen,Medium,101881
+921,Male,Masters,New York,Divorced,Young Adult,Medium,409509
+922,Male,High School,Houston,Single,Senior,Low,179211
+923,Male,PhD,New York,Single,Adult,Medium,256078
+924,Male,Masters,New York,Divorced,Senior,High,403342
+925,Male,Bachelors,Los Angeles,Single,Senior,Medium,462793
+926,Male,High School,Los Angeles,Single,Teen,Medium,327203
+927,Male,High School,Houston,Married,Adult,Medium,295558
+928,Female,Masters,Los Angeles,Married,Adult,High,236949
+929,Female,PhD,Los Angeles,Married,Senior,Low,139553
+930,Male,Masters,Houston,Married,Young Adult,High,498138
+931,Male,PhD,Los Angeles,Single,Senior,Low,484922
+932,Female,PhD,Chicago,Divorced,Young Adult,Low,479162
+933,Male,High School,New York,Single,Adult,Low,235758
+934,Male,Masters,New York,Single,Senior,Medium,132766
+935,Female,Masters,New York,Single,Teen,Medium,394150
+936,Male,PhD,New York,Married,Senior,Low,131422
+937,Female,Masters,Houston,Married,Adult,Low,478734
+938,Male,Bachelors,New York,Married,Teen,Medium,374349
+939,Female,Bachelors,New York,Divorced,Teen,High,254599
+940,Female,Masters,New York,Single,Young Adult,Low,342555
+941,Female,Masters,New York,Divorced,Teen,High,478621
+942,Male,PhD,Chicago,Married,Teen,Medium,128202
+943,Female,Bachelors,New York,Divorced,Senior,Low,423836
+944,Male,Bachelors,Chicago,Single,Adult,High,313456
+945,Male,High School,Houston,Single,Young Adult,High,120855
+946,Male,PhD,Los Angeles,Married,Senior,High,291444
+947,Male,High School,New York,Married,Teen,Medium,387239
+948,Female,Bachelors,Los Angeles,Divorced,Teen,Medium,411385
+949,Female,PhD,Los Angeles,Married,Young Adult,High,203119
+950,Male,Masters,Houston,Married,Adult,High,152003
+951,Male,PhD,Los Angeles,Single,Young Adult,Medium,194837
+952,Female,Masters,Chicago,Married,Senior,High,323068
+953,Male,Masters,Los Angeles,Married,Young Adult,High,456427
+954,Female,PhD,Los Angeles,Single,Teen,Medium,223805
+955,Male,Masters,Los Angeles,Single,Senior,High,455990
+956,Male,High School,New York,Divorced,Teen,High,385071
+957,Female,Bachelors,New York,Married,Adult,High,482733
+958,Male,Masters,Chicago,Single,Teen,Medium,215657
+959,Female,High School,Chicago,Divorced,Teen,High,428774
+960,Male,Masters,New York,Divorced,Young Adult,Medium,204428
+961,Male,Bachelors,Chicago,Married,Teen,Medium,222035
+962,Male,High School,New York,Married,Senior,Low,330780
+963,Female,Bachelors,Houston,Divorced,Senior,Low,488388
+964,Male,Bachelors,Los Angeles,Single,Adult,High,317282
+965,Male,High School,Los Angeles,Divorced,Senior,Medium,169518
+966,Male,High School,Chicago,Married,Young Adult,Low,276355
+967,Male,High School,New York,Single,Adult,High,443470
+968,Female,PhD,New York,Single,Senior,Low,243277
+969,Female,High School,Chicago,Divorced,Young Adult,Low,220243
+970,Male,High School,New York,Married,Senior,Medium,374892
+971,Female,High School,Houston,Divorced,Senior,Medium,496308
+972,Male,High School,Los Angeles,Divorced,Teen,Low,153311
+973,Male,Masters,Chicago,Divorced,Senior,Low,122692
+974,Male,PhD,Chicago,Single,Senior,Medium,224954
+975,Female,Bachelors,New York,Single,Young Adult,High,254934
+976,Female,High School,Chicago,Married,Young Adult,Medium,492179
+977,Female,Masters,Houston,Married,Teen,Low,321468
+978,Female,Masters,New York,Divorced,Senior,High,441651
+979,Female,Masters,New York,Divorced,Teen,Low,180152
+980,Female,Bachelors,New York,Divorced,Senior,High,104926
+981,Female,High School,New York,Married,Adult,Low,103969
+982,Female,PhD,Houston,Single,Adult,High,135733
+983,Female,PhD,New York,Single,Teen,High,431999
+984,Male,Masters,Chicago,Divorced,Teen,Low,141743
+985,Female,Bachelors,Houston,Divorced,Teen,High,230193
+986,Female,Bachelors,Los Angeles,Divorced,Young Adult,Medium,270948
+987,Female,Bachelors,Los Angeles,Divorced,Young Adult,Low,469589
+988,Female,PhD,Chicago,Married,Young Adult,Medium,120323
+989,Female,Masters,Chicago,Single,Teen,Low,378572
+990,Female,High School,Houston,Divorced,Senior,High,134578
+991,Female,PhD,Los Angeles,Married,Adult,High,186486
+992,Female,Masters,Los Angeles,Divorced,Teen,High,426284
+993,Female,Masters,Los Angeles,Divorced,Young Adult,Low,357450
+994,Female,High School,Los Angeles,Single,Young Adult,Medium,207325
+995,Female,High School,Los Angeles,Divorced,Teen,Medium,445973
+996,Male,High School,New York,Single,Teen,Low,368508
+997,Male,Bachelors,Chicago,Single,Young Adult,Low,491011
+998,Female,High School,New York,Single,Senior,Medium,231763
+999,Female,Masters,Los Angeles,Married,Young Adult,Medium,357971
+1000,Male,High School,Houston,Married,Young Adult,Medium,195598

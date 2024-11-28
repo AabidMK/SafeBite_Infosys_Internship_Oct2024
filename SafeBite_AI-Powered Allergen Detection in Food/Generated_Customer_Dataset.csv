@@ -1,0 +1,101 @@
+Customer_ID,Age,Income,Gender,City
+1,40.0,,Female,Paris
+2,45.0,50000.0,Female,London
+3,35.0,50000.0,Female,London
+4,45.0,50000.0,nan,London
+5,45.0,50000.0,Male,London
+6,30.0,55000.0,Male,London
+7,35.0,75000.0,Male,New York
+8,35.0,75000.0,nan,Paris
+9,35.0,50000.0,Female,London
+10,45.0,75000.0,Female,nan
+11,40.0,75000.0,Male,Paris
+12,35.0,50000.0,Female,Paris
+13,,75000.0,Female,London
+14,45.0,,nan,New York
+15,30.0,60000.0,nan,London
+16,40.0,60000.0,nan,New York
+17,,50000.0,nan,nan
+18,,55000.0,Male,Paris
+19,30.0,50000.0,nan,nan
+20,40.0,55000.0,Female,New York
+21,45.0,60000.0,Male,New York
+22,25.0,50000.0,Female,nan
+23,40.0,,Female,New York
+24,30.0,75000.0,Female,nan
+25,,55000.0,nan,Paris
+26,45.0,75000.0,nan,nan
+27,40.0,75000.0,Male,Paris
+28,25.0,50000.0,Male,nan
+29,25.0,75000.0,nan,New York
+30,35.0,,Female,nan
+31,35.0,75000.0,Male,New York
+32,30.0,50000.0,nan,nan
+33,40.0,,nan,nan
+34,40.0,60000.0,nan,London
+35,,75000.0,Female,New York
+36,,50000.0,nan,London
+37,,60000.0,nan,New York
+38,35.0,60000.0,nan,London
+39,40.0,55000.0,nan,Paris
+40,40.0,,Male,nan
+41,25.0,75000.0,Male,New York
+42,35.0,50000.0,nan,New York
+43,45.0,55000.0,Female,nan
+44,35.0,,Male,New York
+45,45.0,55000.0,nan,New York
+46,25.0,,Male,London
+47,30.0,,Male,New York
+48,40.0,75000.0,Female,Paris
+49,25.0,,nan,Paris
+50,40.0,55000.0,nan,nan
+51,,,Female,New York
+52,30.0,75000.0,Female,nan
+53,30.0,75000.0,nan,Paris
+54,25.0,55000.0,nan,New York
+55,30.0,60000.0,Female,New York
+56,45.0,60000.0,Male,nan
+57,30.0,,Male,Paris
+58,40.0,50000.0,Female,New York
+59,40.0,,Male,nan
+60,40.0,55000.0,Female,Paris
+61,40.0,55000.0,Male,nan
+62,45.0,55000.0,Male,London
+63,35.0,55000.0,nan,New York
+64,,55000.0,nan,London
+65,25.0,75000.0,Male,Paris
+66,40.0,60000.0,Male,London
+67,30.0,55000.0,nan,London
+68,40.0,50000.0,nan,Paris
+69,30.0,50000.0,nan,nan
+70,,50000.0,Female,London
+71,,50000.0,Male,nan
+72,,75000.0,nan,London
+73,30.0,50000.0,Male,nan
+74,40.0,55000.0,Female,Paris
+75,,,Female,London
+76,45.0,50000.0,nan,Paris
+77,30.0,75000.0,Female,London
+78,30.0,75000.0,Male,Paris
+79,40.0,50000.0,nan,Paris
+80,30.0,,Male,London
+81,30.0,50000.0,Male,London
+82,,75000.0,Female,London
+83,40.0,60000.0,Female,New York
+84,,55000.0,Female,nan
+85,,75000.0,Female,New York
+86,40.0,50000.0,Female,New York
+87,25.0,55000.0,nan,Paris
+88,,50000.0,Male,London
+89,45.0,50000.0,Male,nan
+90,45.0,60000.0,Male,Paris
+91,30.0,55000.0,Male,New York
+92,45.0,55000.0,Female,London
+93,30.0,60000.0,Male,Paris
+94,25.0,75000.0,nan,London
+95,40.0,50000.0,nan,Paris
+96,40.0,,Male,London
+97,40.0,50000.0,Male,New York
+98,45.0,50000.0,nan,nan
+99,25.0,75000.0,nan,New York
+100,45.0,50000.0,Female,nan
