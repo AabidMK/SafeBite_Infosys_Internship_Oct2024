@@ -27,8 +27,6 @@ Our mission is to develop an intuitive, reliable, and efficient tool that allows
 - **Flask**: A micro-framework for building the API and handling backend requests.
 - **Streamlit**: For front-end development, providing an interactive and user-friendly interface.
 - **Joblib/Pickle**: For saving and loading the trained machine learning models.
-- **OpenCV**: For handling and processing any food-related images (if required).
-- **TensorFlow/Keras**: For building more complex deep learning models (optional for future improvements).
 
 ## Project Structure
 
