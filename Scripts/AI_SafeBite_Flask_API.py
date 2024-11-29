@@ -6,8 +6,8 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load the trained model and encoder:
-loaded_encoder = joblib.load("loo_encoder.pkl")
-loaded_model = joblib.load("final_rf_model.pkl")
+loaded_encoder = joblib.load("../Models/loo_encoder_model.pkl")
+loaded_model = joblib.load("../Models/rf_trained_model.pkl")
 
 @app.route('/')
 def home():
