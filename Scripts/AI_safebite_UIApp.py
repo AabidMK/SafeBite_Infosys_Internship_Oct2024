@@ -12,11 +12,10 @@ app = Flask(__name__)
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 model_path = os.path.join(current_dir, "Allergen_detection.pkl")
-
+encoder_path = os.path.join(current_dir,"leave_one_out_encoder.pkl")
 # Load the trained model and encoder
 loaded_model = joblib.load(model_path)
-with open("leave_one_out_encoder.pkl", "rb") as file:
-    loaded_encoder = pickle.load(file)
+loaded_encoder = joblib.load(encoder_path) 
 
 # Flask route for prediction API
 @app.route('/predict', methods=['POST'])
