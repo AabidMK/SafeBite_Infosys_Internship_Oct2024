@@ -10,7 +10,8 @@ from threading import Thread
 app = Flask(__name__)
 
 # Load the trained model and encoder
-loaded_model = joblib.load("Allergen_detection.pkl")
+with open("Allergen_detection.pkl", "rb") as file:
+    loaded_model = joblib.load(file)
 with open("leave_one_out_encoder.pkl", "rb") as file:
     loaded_encoder = pickle.load(file)
 
