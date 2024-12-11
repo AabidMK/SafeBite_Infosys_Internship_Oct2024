@@ -5,13 +5,16 @@ import joblib
 import requests
 from flask import Flask, request, jsonify
 from threading import Thread
+import os
 
 # Flask App
 app = Flask(__name__)
 
+current_dir = os.path.dirname(os.path.abspath(__file__))
+model_path = os.path.join(current_dir, "Allergen_detection.pkl")
+
 # Load the trained model and encoder
-with open("Allergen_detection.pkl", "rb") as file:
-    loaded_model = joblib.load(file)
+loaded_model = joblib.load(model_path)
 with open("leave_one_out_encoder.pkl", "rb") as file:
     loaded_encoder = pickle.load(file)
 
