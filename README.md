@@ -118,6 +118,12 @@ python AI_SafeBite_flask_api.py
 
 This will start the Flask API server, allowing you to interact with the app programmatically for allergen predictions.
 
+## Live Demo
+
+```bash
+https://safebite-551h.onrender.com/
+```
+
 ## Contributing
 
 We welcome contributions to improve SafeBite! If you'd like to contribute, please fork the repository, make changes, and submit a pull request. You can also open an issue if you have suggestions or find any bugs.
