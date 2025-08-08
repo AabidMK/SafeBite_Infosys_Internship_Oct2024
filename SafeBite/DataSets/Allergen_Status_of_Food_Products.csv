@@ -1,0 +1,400 @@
+Food Product,Main Ingredient,Sweetener,Fat/Oil,Seasoning,Allergens,Price ($),Customer rating (Out of 5),Prediction
+Almond Cookies,Almonds,Sugar,Butter,Flour,"Almonds, Wheat, Dairy",10.15,3.1,Contains
+Almond Cookies,Almonds,Sugar,Butter,Flour,"Almonds, Wheat, Dairy",6.17,4.5,Contains
+Chicken Noodle Soup,Chicken broth,None,None,Salt,"Chicken, Wheat, Celery",19.65,4.1,Contains
+Chicken Noodle Soup,Chicken broth,None,None,Salt,"Chicken, Wheat, Celery",17.48,4.7,Contains
+Cheddar Cheese,Cheese,None,None,Salt,Dairy,10.83,3.7,Contains
+Ranch Dressing,Buttermilk,Sugar,Vegetable oil,"Garlic, herbs",Dairy,9.92,2.3,Contains
+Caramel Popcorn,Popcorn,Sugar,Butter,Salt,Dairy,6.14,3.2,Contains
+Caesar Salad,Romaine lettuce,None,Olive oil,Parmesan cheese,Dairy,14.99,4.8,Contains
+Caesar Wrap,Grilled chicken,None,Caesar dressing,"Lettuce, Parmesan cheese",Dairy,12.45,3.8,Contains
+Strawberry Smoothie,Strawberries,Honey,"Yogurt (milk, cultures)",None,Dairy,13.37,3.2,Contains
+Cheese Pizza,Cheese,None,None,Tomato sauce,Dairy,18.9,4.2,Contains
+Margherita Pizza,Cheese,None,None,"Tomato sauce, basil",Dairy,16.95,3.1,Contains
+Mashed Potatoes,Potatoes,None,Butter,"Salt, Pepper",Dairy,14.82,3.5,Contains
+Greek Yogurt,"Yogurt (milk, cultures)",None,None,None,Dairy,6.29,3.9,Contains
+Caesar Salad Wrap,Grilled chicken,None,Caesar dressing,"Lettuce, Parmesan cheese",Dairy,10.98,3.4,Contains
+Caprese Salad,Tomatoes,None,Olive oil,"Mozzarella cheese, basil",Dairy,19.76,3.3,Contains
+Berry Smoothie,Mixed berries,Sugar,"Yogurt (milk, cultures)",None,Dairy,6.89,1.2,Contains
+Caesar Salad,Romaine lettuce,None,Olive oil,Caesar dressing,Dairy,17.33,3.1,Contains
+Berry Parfait,Mixed berries,Sugar,"Yogurt (milk, cultures)",Granola,Dairy,12.97,4.5,Contains
+Chicken Alfredo,Chicken,None,Butter,"Cream, Parmesan cheese",Dairy,6.56,3.5,Contains
+Pesto Pizza,Pesto sauce,None,None,"Mozzarella cheese, basil",Dairy,7.68,3.3,Contains
+Beef Stroganoff,Beef,None,Sour cream,"Mushroom, onion",Dairy,10.54,1.6,Contains
+Banana Smoothie,Bananas,Honey,"Yogurt (milk, cultures)",None,Dairy,19.77,4.5,Contains
+Watermelon Salad,Watermelon,None,None,"Feta cheese, mint",Dairy,7.01,4.6,Contains
+Chicken Parmesan,Chicken,None,"Bread crumbs, Parmesan cheese",Marinara sauce,Dairy,11.07,4.4,Contains
+Mango Lassi,Mango,Sugar,"Yogurt (milk, cultures)",Cardamom,Dairy,8.58,2.4,Contains
+Greek Salad,Cucumbers,None,Olive oil,"Feta cheese, olives",Dairy,12.81,1.3,Contains
+Butternut Squash Soup,Butternut squash,None,Butter,Vegetable broth,Dairy,6.14,1.6,Contains
+Margherita Pasta,Pasta,None,Olive oil,"Fresh tomatoes, mozzarella",Dairy,12.62,3.6,Contains
+Greek Gyro Wrap,Lamb,None,None,"Tzatziki sauce, tomatoes, onions",Dairy,6.77,1.8,Contains
+Spinach and Feta Stuffed Chicken,Chicken,None,Olive oil,"Spinach, feta cheese",Dairy,14.04,4.5,Contains
+Chicken Fettuccine Alfredo,Chicken,None,Butter,"Cream, Parmesan cheese",Dairy,11.52,1.5,Contains
+Caprese Sandwich,Tomatoes,None,Olive oil,"Mozzarella cheese, basil",Dairy,10.16,4.8,Contains
+Mushroom Risotto,Mushrooms,None,Butter,"Arborio rice, Parmesan cheese",Dairy,8.67,4.9,Contains
+Greek Yogurt Parfait,Greek yogurt,Honey,None,"Granola, mixed berries",Dairy,7.25,2.2,Contains
+Eggplant Parmesan,Eggplant,None,Olive oil,"Marinara sauce, cheese",Dairy,14.38,1.5,Contains
+Banana Pudding,Bananas,Sugar,Milk,"Vanilla pudding mix, cookies",Dairy,7.34,2.4,Contains
+Margherita Pizza,Pizza dough,None,Olive oil,"Mozzarella cheese, tomatoes, basil",Dairy,13.84,4.8,Contains
+Chicken Caesar Wrap,Chicken,None,Caesar dressing,"Romaine lettuce, Parmesan cheese",Dairy,7.03,2.7,Contains
+Greek Spanakopita,Spinach,None,Olive oil,"Feta cheese, phyllo dough",Dairy,11.97,1.8,Contains
+Mushroom Soup,Mushrooms,None,Butter,Vegetable broth,Dairy,11.16,3.1,Contains
+Greek Yogurt,"Yogurt (milk, cultures)",Honey,None,None,Dairy,15.79,4.5,Contains
+Spinach Artichoke Dip,Spinach,None,"Cream cheese, sour cream","Parmesan cheese, garlic",Dairy,8.15,4.8,Contains
+Chocolate Mousse,Chocolate,Sugar,Heavy cream,Vanilla extract,Dairy,16.12,2.7,Contains
+Stuffed Portobello Mushrooms,Portobello mushrooms,None,None,"Cheese, breadcrumbs",Dairy,10.74,4.7,Contains
+Caprese Salad,Tomatoes,None,Olive oil,"Mozzarella cheese, basil",Dairy,19.25,2.6,Contains
+Tandoori Chicken,Chicken,None,Yogurt,Tandoori spices,Dairy,16.62,4.7,Contains
+Beef Stroganoff,Beef,None,Sour cream,"Mushrooms, onions",Dairy,15.43,2.3,Contains
+Strawberry Smoothie,Strawberries,Sugar,Yogurt,Milk,Dairy,14.47,2.1,Contains
+Baked Garlic Parmesan Chicken,Chicken,None,Butter,"Parmesan cheese, garlic",Dairy,14.2,2.5,Contains
+Mushroom and Goat Cheese Flatbread,Mushrooms,None,Olive oil,"Goat cheese, herbs",Dairy,19.4,1.8,Contains
+Margherita Pasta,Pasta,None,Olive oil,"Mozzarella cheese, tomatoes, basil",Dairy,6.83,1.8,Contains
+Pumpkin Soup,Pumpkin,None,Butter,"Nutmeg, cream",Dairy,17.48,2.3,Contains
+Butternut Squash Soup,Butternut squash,None,Butter,"Nutmeg, cream",Dairy,5.81,4.1,Contains
+Caprese Skewers,Tomatoes,None,Olive oil,"Mozzarella cheese, basil",Dairy,16.69,5,Contains
+Chicken Piccata,Chicken,None,Butter,"Lemon, capers",Dairy,16.27,3,Contains
+Berry Parfait,Berries,Honey,Yogurt,Granola,Dairy,19.83,4.7,Contains
+Stuffed Mushrooms,Mushrooms,None,None,"Cheese, breadcrumbs",Dairy,9.12,1.8,Contains
+Spinach Artichoke Dip,Spinach,None,"Cream cheese, sour cream","Parmesan cheese, garlic",Dairy,9.92,4.7,Contains
+Chocolate Mousse,Chocolate,Sugar,Heavy cream,Vanilla extract,Dairy,11.96,3.6,Contains
+Stuffed Portobello Mushrooms,Portobello mushrooms,None,None,"Cheese, breadcrumbs",Dairy,19,3.9,Contains
+Caprese Salad,Tomatoes,None,Olive oil,"Mozzarella cheese, basil",Dairy,19.73,3.7,Contains
+Tandoori Chicken,Chicken,None,Yogurt,Tandoori spices,Dairy,8.97,1.7,Contains
+Beef Stroganoff,Beef,None,Sour cream,"Mushrooms, onions",Dairy,18.82,4,Contains
+Strawberry Smoothie,Strawberries,Sugar,Yogurt,Milk,Dairy,6.88,1.3,Contains
+Baked Garlic Parmesan Chicken,Chicken,None,Butter,"Parmesan cheese, garlic",Dairy,7.32,3.9,Contains
+Butter Chicken,Chicken,Sugar,Butter,"Tomato sauce, cream",Dairy,19.61,1,Contains
+Palak Paneer,Spinach,None,Ghee,"Paneer, spices",Dairy,7.45,2.3,Contains
+Tandoori Chicken,Chicken,None,Yogurt,Tandoori spices,Dairy,8.52,1.1,Contains
+Rogan Josh,Lamb,None,Ghee,"Yogurt, Kashmiri red chili",Dairy,7.34,1.5,Contains
+Paneer Tikka,Paneer,None,Oil,"Tikka masala, spices",Dairy,16.26,3.8,Contains
+Dal Makhani,Lentils,None,Ghee,"Cream, spices",Dairy,16.93,4.6,Contains
+Malai Kofta,Cottage cheese,None,Ghee,Creamy tomato sauce,Dairy,14.77,1.6,Contains
+Chicken Tikka Masala,Chicken,Sugar,Ghee,"Tomato sauce, cream",Dairy,17.66,1.3,Contains
+Gulab Jamun,Milk solids,Sugar,Ghee,Cardamom syrup,Dairy,5.93,1.9,Contains
+Chicken Korma,Chicken,None,Ghee,"Creamy sauce, spices",Dairy,11.43,2.3,Contains
+Malai Chicken Tikka,Chicken,None,Cream,Spices,Dairy,6.1,3.2,Contains
+Dahi Vada,Lentil dumplings,None,Yogurt,"Tamarind chutney, spices",Dairy,6.37,4.8,Contains
+Chicken Malai Tikka,Chicken,None,Cream,Spices,Dairy,11.59,4.8,Contains
+Matar Paneer,Paneer,None,Ghee,"Peas, spices",Dairy,7.54,2.7,Contains
+Rasgulla,Paneer,Sugar,None,"Rose water, syrup",Dairy,13.92,2.5,Contains
+Rabri,Milk,Sugar,Ghee,"Cardamom, nuts",Dairy,14.38,3.7,Contains
+Chicken Korma,Chicken,None,Ghee,"Creamy sauce, spices",Dairy,17.74,3.4,Contains
+Gulab Jamun,Milk solids,Sugar,Ghee,Cardamom syrup,Dairy,5.94,4,Contains
+Rogan Josh,Lamb,None,Ghee,"Yogurt, Kashmiri red chili",Dairy,8.63,1,Contains
+Kheer,Rice,Sugar,Ghee,"Cardamom, nuts",Dairy,6.69,1.6,Contains
+Rasmalai,Paneer,Sugar,"Milk, Ghee","Cardamom, nuts",Dairy,11.64,2.8,Contains
+Chicken Caesar Salad,Chicken breast,None,Olive oil,Parmesan cheese,"Dairy, Anchovies",13.69,2,Contains
+Chocolate Mousse,Chocolate,Sugar,Heavy cream,Vanilla extract,"Dairy, Cocoa",16.46,3.4,Contains
+Quiche Lorraine,Bacon,None,Heavy cream,"Cheese, eggs","Dairy, Eggs",19.81,3.8,Contains
+Chicken Piccata,Chicken,None,Butter,"Lemon, capers","Dairy, Fish",11.4,4.1,Contains
+Chicken Tikka Masala,Chicken,None,Ghee,Tikka masala sauce,"Dairy, Ghee",11.21,3.6,Contains
+Sweet Potato Casserole,Sweet potatoes,Brown sugar,Butter,"Cinnamon, nutmeg","Dairy, Nuts",13.47,2.6,Contains
+Baked Brie,Brie cheese,None,None,"Herbs, nuts","Dairy, Nuts",13.79,2.2,Contains
+French Onion Soup,Onions,None,Butter,"Beef broth, cheese, bread","Dairy, Wheat",11.6,3.1,Contains
+Greek Gyro,Lamb/Chicken,None,None,"Tzatziki sauce, vegetables","Dairy, Wheat",6.64,1.8,Contains
+French Onion Soup,Onions,None,Butter,"Beef broth, cheese, bread","Dairy, Wheat",6.14,1.4,Contains
+Omelette,Eggs,None,Butter,"Salt, pepper",Eggs,16.82,1.9,Contains
+Egg Salad,Eggs,Mayonnaise,None,"Celery, onion",Eggs,8.21,1.7,Contains
+Egg Salad,Eggs,Mayonnaise,None,"Celery, onion",Eggs,8.85,2.3,Contains
+Quiche,Eggs,None,Cheese,Vegetables,"Eggs, Dairy",13.14,3,Contains
+Egg Salad Sandwich,Eggs,Mayonnaise,None,"Celery, mustard","Eggs, Mustard",12.51,4.2,Contains
+Egg Fried Rice,Eggs,None,Sesame oil,Soy sauce,"Eggs, Soybeans",12.17,3.9,Contains
+Fish Sticks,Fish fillets,None,Vegetable oil,Salt,Fish,10.13,3.5,Contains
+Fish Sticks,Fish fillets,None,Vegetable oil,Salt,Fish,6.83,3.3,Contains
+Baked Salmon,Salmon fillet,None,Olive oil,"Lemon, herbs",Fish,5.17,2.7,Contains
+Teriyaki Salmon,Salmon,None,Vegetable oil,Teriyaki sauce,Fish,5.96,4.2,Contains
+Baked Salmon,Salmon,None,Olive oil,"Lemon, herbs",Fish,13.93,1.7,Contains
+Lemon Dill Salmon,Salmon,None,Olive oil,"Lemon, dill",Fish,12.15,1.1,Contains
+Baked Salmon,Salmon,None,Olive oil,"Lemon, herbs",Fish,11.7,4.5,Contains
+Malabar Fish Curry,Fish,None,Coconut oil,"Tamarind, spices","Fish, Coconut",18.37,4.9,Contains
+Baked Cod,Cod,None,Butter,"Lemon, herbs","Fish, Dairy",13.77,2.8,Contains
+Baked Cod,Cod,None,Butter,"Lemon, herbs","Fish, Dairy",12.65,2.5,Contains
+Tuna Sandwich,Tuna,Mayonnaise,None,"Salt, Pepper","Fish, Eggs",9.57,1.3,Contains
+Tuna Salad,Tuna,Mayonnaise,None,"Celery, onion","Fish, Eggs",5.87,4.4,Contains
+Sushi,"Fish (salmon, tuna)",Rice vinegar,Sesame oil,Soy sauce,"Fish, Soybeans",14.85,1.8,Contains
+Teriyaki Salmon,Salmon fillet,Sugar,Soy sauce,"Ginger, garlic","Fish, Soybeans",15.93,3.2,Contains
+Sushi Bowl,Sushi rice,None,Soy sauce,"Raw fish, vegetables","Fish, Soybeans",9.89,3.1,Contains
+Honey Soy Glazed Salmon,Salmon,Honey,Soy sauce,"Garlic, ginger","Fish, Soybeans",13.57,3.6,Contains
+Sushi Bowl,Sushi rice,None,Soy sauce,"Raw fish, vegetables","Fish, Soybeans",16.26,2.6,Contains
+Honey Soy Glazed Salmon,Salmon,Honey,Soy sauce,"Garlic, ginger","Fish, Soybeans",16.62,2,Contains
+Milk Chocolate,Sugar,Cocoa butter,Milk powder,Vanilla extract,Milk,16.21,3.6,Contains
+Milk Chocolate,Sugar,Cocoa butter,Milk powder,Vanilla extract,Milk,10.35,3.6,Contains
+Vanilla Ice Cream,Milk,Sugar,Cream,Vanilla extract,Milk,13.5,2.4,Contains
+Vanilla Yogurt,"Yogurt (milk, cultures)",Sugar,None,Vanilla extract,Milk,5.51,1.2,Contains
+Strawberry Yogurt,"Yogurt (milk, cultures)",Sugar,None,Pectin,"Milk, Strawberries",10.2,3.7,Contains
+Strawberry Yogurt,"Yogurt (milk, cultures)",Sugar,None,Pectin,"Milk, Strawberries",5.63,2.7,Contains
+Tomato Soup,Tomatoes,None,None,"Salt, Sugar",None,12.81,3.7,Does not contain
+Apple,Apples,None,None,None,None,18.2,3.1,Does not contain
+Tomato Soup,Tomatoes,None,None,"Salt, Sugar",None,12.95,3.6,Does not contain
+Apple,Apples,None,None,None,None,15.37,3.7,Does not contain
+Orange Juice,Oranges,Sugar,None,None,None,12.03,2.6,Does not contain
+Greek Salad,Cucumber,None,Olive oil,Lemon juice,None,5.26,1.8,Does not contain
+Spaghetti Bolognese,Ground beef,Sugar,Olive oil,Tomato sauce,None,6.91,2.4,Contains
+Honey Mustard Chicken,Chicken breast,Honey,Mustard,Vegetable oil,None,6.23,2.6,Contains
+BBQ Ribs,Pork ribs,Brown sugar,Vegetable oil,BBQ sauce,None,15.04,3.6,Contains
+Quinoa Salad,Quinoa,None,Olive oil,"Lemon juice, herbs",None,14.12,1.2,Does not contain
+Vegetable Stir-Fry,Mixed vegetables,None,Vegetable oil,Soy sauce,None,12.42,3.4,Does not contain
+Beef Burger,Ground beef,None,Vegetable oil,"Salt, Pepper",None,10.3,2,Does not contain
+French Fries,Potatoes,None,Vegetable oil,Salt,None,6.31,2.3,Does not contain
+Lemonade,Lemon juice,Sugar,Water,None,None,10.06,2.1,Does not contain
+Gazpacho,Tomatoes,None,Olive oil,"Garlic, herbs",None,19.52,4.2,Does not contain
+Beef Tacos,Ground beef,None,Vegetable oil,Taco seasoning,None,17.78,4.4,Does not contain
+Lentil Soup,Lentils,None,Olive oil,Vegetables,None,15.18,4.2,Does not contain
+Chicken Curry,Chicken,None,Vegetable oil,Curry powder,None,10.43,3.7,Does not contain
+Ratatouille,Eggplant,None,Olive oil,Tomatoes,None,15.86,1.3,Does not contain
+Pesto Pasta,Pasta,None,Olive oil,"Basil, garlic",None,16.54,3.7,Does not contain
+Chicken Stir-Fry,Chicken,None,Vegetable oil,Soy sauce,None,19.85,4.8,Does not contain
+Veggie Burger,Mixed vegetables,None,Vegetable oil,Seasonings,None,6.49,1.2,Does not contain
+Vegetable Soup,Mixed vegetables,None,Olive oil,Seasonings,None,14.26,2.7,Does not contain
+Spinach Salad,Spinach,None,Olive oil,Balsamic vinegar,None,16.37,3.9,Does not contain
+Chicken Enchiladas,Chicken,None,Vegetable oil,Enchilada sauce,None,5.37,1.5,Does not contain
+Minestrone Soup,Vegetables,None,Olive oil,Tomato broth,None,7.68,2.1,Does not contain
+Salsa,Tomatoes,None,None,"Onion, cilantro",None,14.31,1.2,Does not contain
+Lemon Garlic Chicken,Chicken,None,Olive oil,"Lemon juice, garlic",None,5.28,3.5,Does not contain
+Pancetta Pasta,Pasta,None,Pancetta,"Garlic, herbs",None,5.79,3.6,Does not contain
+Chicken Teriyaki,Chicken,None,Vegetable oil,Teriyaki sauce,None,11.99,4.3,Does not contain
+Spinach Stuffed Chicken,Chicken,None,Olive oil,"Spinach, garlic",None,6.34,3.1,Does not contain
+Coconut Curry,Chicken,None,Coconut milk,Curry paste,None,12.81,2.7,Does not contain
+Apple Cider,Apples,Sugar,None,Cinnamon,None,16.39,1.4,Does not contain
+Ratatouille,Eggplant,None,Olive oil,"Tomatoes, zucchini",None,19.57,4.6,Does not contain
+Avocado Toast,Avocado,None,Olive oil,"Salt, pepper",None,7.55,4.1,Does not contain
+Beef Stir-Fry,Beef,None,Vegetable oil,Soy sauce,None,18.26,1.5,Does not contain
+Black Bean Soup,Black beans,None,Olive oil,Vegetables,None,18.2,1.8,Does not contain
+Beef Tacos,Ground beef,None,Vegetable oil,Taco seasoning,None,14.23,4.7,Does not contain
+Cucumber Salad,Cucumber,None,Olive oil,"Lemon juice, dill",None,10.32,3.8,Does not contain
+Fruit Salad,Mixed fruits,Sugar,None,Lemon juice,None,7.58,1.1,Does not contain
+Sausage Pizza,Sausage,None,None,Mozzarella cheese,None,9.08,3.2,Does not contain
+Chicken Fajitas,Chicken,None,Vegetable oil,Fajita seasoning,None,9.54,1.6,Does not contain
+Mango Salsa,Mango,None,None,"Red onion, lime",None,9.86,2.3,Does not contain
+Lentil Curry,Lentils,None,Coconut milk,Curry powder,None,9.35,2.2,Does not contain
+Green Smoothie,Spinach,Honey,Avocado,Almond milk,None,7.79,1.8,Does not contain
+Stuffed Bell Peppers,Bell peppers,None,Olive oil,"Ground meat, rice",None,11.84,1.7,Does not contain
+Beef and Broccoli,Beef,None,Vegetable oil,Soy sauce,None,19.54,3.8,Does not contain
+Cabbage Rolls,Cabbage,None,Olive oil,"Ground meat, rice",None,19.33,2.7,Does not contain
+Caramel Apple,Apples,Caramel,None,None,None,10.32,3.8,Does not contain
+Sweet Potato Fries,Sweet potatoes,None,Vegetable oil,"Salt, paprika",None,8.22,4.6,Does not contain
+Beef Chili,Ground beef,None,None,Chili powder,None,15.56,3.9,Does not contain
+Pesto Chicken,Chicken,None,Pesto sauce,None,None,8.29,4.9,Does not contain
+Beef Burritos,Ground beef,None,Vegetable oil,Taco seasoning,None,10.93,3.4,Does not contain
+Chicken Shawarma,Chicken,None,Olive oil,Shawarma spices,None,16.5,4.4,Does not contain
+Stuffed Mushrooms,Mushrooms,None,None,"Garlic, herbs",None,19.36,1.8,Does not contain
+Zucchini Noodles,Zucchini,None,Olive oil,"Garlic, herbs",None,10.23,2.8,Does not contain
+Sweet and Sour Chicken,Chicken,Sugar,Vegetable oil,"Pineapple, bell peppers",None,19.33,2.7,Does not contain
+Beef Kabobs,Beef,None,Olive oil,Seasonings,None,18.47,2.2,Does not contain
+Tomato Bruschetta,Tomatoes,None,Olive oil,"Garlic, basil",None,5.83,4.5,Does not contain
+Quinoa Stuffed Peppers,Quinoa,None,Olive oil,"Vegetables, spices",None,11.91,3.5,Does not contain
+Veggie Omelette,Mixed vegetables,None,Olive oil,"Salt, pepper",None,19.27,1.2,Does not contain
+Ratatouille,Vegetables,None,Olive oil,"Herbs, garlic",None,14.92,2.5,Does not contain
+Beef Tacos,Beef,None,Vegetable oil,Taco seasoning,None,12.7,1.7,Does not contain
+Quinoa Salad,Quinoa,None,Olive oil,"Lemon juice, vegetables",None,15.25,3.5,Does not contain
+Vegetable Stir-Fry,Mixed vegetables,None,Vegetable oil,Soy sauce,None,8.67,1.5,Does not contain
+Buffalo Wings,Chicken wings,None,Vegetable oil,Buffalo sauce,None,8.74,3.3,Does not contain
+Lentil Soup,Lentils,None,Olive oil,Vegetables,None,7.31,4.2,Does not contain
+Stuffed Cabbage Rolls,Cabbage,None,Olive oil,"Ground meat, rice",None,16.69,2.3,Does not contain
+Orange Chicken,Chicken,None,Vegetable oil,Orange sauce,None,6.63,3.3,Does not contain
+Honey Mustard Chicken,Chicken,Honey,Olive oil,"Mustard, herbs",None,13.24,1.4,Does not contain
+Lentil Salad,Lentils,None,Olive oil,"Lemon juice, vegetables",None,10.18,3.5,Does not contain
+Cilantro Lime Chicken,Chicken,None,Olive oil,"Cilantro, lime",None,6.26,3,Does not contain
+Ratatouille Pizza,Pizza dough,None,Olive oil,Ratatouille vegetables,None,18.06,2,Does not contain
+Chicken Curry,Chicken,None,Coconut milk,Curry powder,None,13.72,2.2,Does not contain
+Pesto Pasta Salad,Pasta,None,Pesto sauce,"Tomatoes, vegetables",None,6.5,2.2,Does not contain
+Beef and Mushroom Stir-Fry,Beef,None,Vegetable oil,Soy sauce,None,10.55,4.3,Does not contain
+Tofu Curry,Tofu,None,Coconut milk,Curry paste,None,7.87,2.8,Does not contain
+Stuffed Bell Peppers,Bell peppers,None,Olive oil,"Ground meat, rice",None,19.86,1.6,Does not contain
+Stuffed Bell Peppers,Bell peppers,None,Olive oil,"Ground meat, rice",None,15.79,2.5,Does not contain
+Greek Moussaka,Eggplant,None,Olive oil,"Ground meat, potatoes",None,15.52,2.2,Does not contain
+Brussels Sprouts,Brussels sprouts,None,Olive oil,Balsamic glaze,None,13.17,1.4,Does not contain
+Baked Chicken Wings,Chicken wings,None,Olive oil,Seasonings,None,5.65,3.9,Does not contain
+Mango Coconut Popsicles,Mango,Sugar,Coconut milk,None,None,7.86,2.9,Does not contain
+Ratatouille Pasta,Pasta,None,Olive oil,Ratatouille vegetables,None,15.1,2.2,Does not contain
+Chicken Noodle Soup,Chicken,None,Vegetable oil,"Noodles, vegetables",None,13.87,1.3,Does not contain
+Mango Salsa,Mango,None,None,"Lime juice, cilantro",None,6.78,4,Does not contain
+Spinach Salad,Spinach,None,Olive oil,Balsamic vinaigrette,None,12.85,2.2,Does not contain
+Caramelized Onions,Onions,Sugar,Butter,None,None,11.82,3.7,Does not contain
+Beef Stir-Fry,Beef,None,Vegetable oil,Soy sauce,None,9.77,2,Does not contain
+Strawberry Spinach Salad,Spinach,None,None,"Strawberries, vinaigrette",None,12.77,4.7,Does not contain
+Ratatouille Tart,Vegetables,None,Olive oil,"Puff pastry, herbs",None,17.29,1.2,Does not contain
+Honey Glazed Carrots,Carrots,Honey,Butter,None,None,18.77,2.5,Does not contain
+Cucumber Salad,Cucumbers,None,Olive oil,"Vinegar, herbs",None,19.83,4.4,Does not contain
+Greek Lemon Potatoes,Potatoes,None,Olive oil,"Lemon juice, herbs",None,12.88,3.9,Does not contain
+Stuffed Tomatoes,Tomatoes,None,None,"Herbs, breadcrumbs",None,18.76,1.1,Does not contain
+Avocado Toast,Avocado,None,Olive oil,"Salt, pepper",None,16.54,3.5,Does not contain
+Lemon Pepper Chicken,Chicken,None,Olive oil,Lemon pepper seasoning,None,7.97,2.4,Does not contain
+Chicken Shawarma,Chicken,None,Olive oil,Shawarma seasoning,None,5.61,4.5,Does not contain
+Lemon Herb Roasted Chicken,Chicken,None,Olive oil,"Lemon, herbs",None,6.28,3.1,Does not contain
+Greek Lemon Chicken,Chicken,None,Olive oil,"Lemon juice, herbs",None,19.66,4.3,Does not contain
+Roasted Brussels Sprouts,Brussels sprouts,None,Olive oil,Balsamic glaze,None,13.61,4.7,Does not contain
+Beef Burritos,Beef,None,Vegetable oil,Burrito seasoning,None,16.77,1.5,Does not contain
+Raspberry Spinach Salad,Spinach,None,None,"Raspberries, vinaigrette",None,10.88,2.7,Does not contain
+Chicken and Rice Soup,Chicken,None,Vegetable oil,"Rice, vegetables",None,5.26,3.9,Does not contain
+Chicken Fajitas,Chicken,None,Vegetable oil,Fajita seasoning,None,19.43,2.5,Does not contain
+Vegetable Curry,Mixed vegetables,None,Coconut milk,Curry paste,None,5.39,2.4,Does not contain
+Ratatouille,Vegetables,None,Olive oil,Herbs,None,5.84,2.3,Does not contain
+Pesto Pasta Salad,Pasta,None,Pesto sauce,"Tomatoes, vegetables",None,10.87,4.4,Does not contain
+Beef and Mushroom Stir-Fry,Beef,None,Vegetable oil,Soy sauce,None,8.71,1.5,Does not contain
+Tofu Curry,Tofu,None,Coconut milk,Curry paste,None,5.21,1.7,Does not contain
+Stuffed Bell Peppers,Bell peppers,None,Olive oil,"Ground meat, rice",None,9.3,1.1,Does not contain
+Greek Moussaka,Eggplant,None,Olive oil,"Ground meat, potatoes",None,14.69,4.1,Does not contain
+Brussels Sprouts,Brussels sprouts,None,Olive oil,Balsamic glaze,None,9.78,1.1,Does not contain
+Baked Chicken Wings,Chicken wings,None,Olive oil,Seasonings,None,17.43,1.9,Does not contain
+Mango Coconut Popsicles,Mango,Sugar,Coconut milk,None,None,18.22,2.9,Does not contain
+Ratatouille Pasta,Pasta,None,Olive oil,Ratatouille vegetables,None,14.8,3.7,Does not contain
+Chicken Noodle Soup,Chicken,None,Vegetable oil,"Noodles, vegetables",None,6.15,1.1,Does not contain
+Mango Salsa,Mango,None,None,"Lime juice, cilantro",None,7.02,3.7,Does not contain
+Spinach Salad,Spinach,None,Olive oil,Balsamic vinaigrette,None,6.55,1.2,Does not contain
+Caramelized Onions,Onions,Sugar,Butter,None,None,8.1,4.2,Does not contain
+Beef Stir-Fry,Beef,None,Vegetable oil,Soy sauce,None,16.7,4.8,Does not contain
+Strawberry Spinach Salad,Spinach,None,None,"Strawberries, vinaigrette",None,11.52,2,Does not contain
+Ratatouille Tart,Vegetables,None,Olive oil,"Puff pastry, herbs",None,7.87,4.3,Does not contain
+Honey Glazed Carrots,Carrots,Honey,Butter,None,None,6.59,4.8,Does not contain
+Cucumber Salad,Cucumbers,None,Olive oil,"Vinegar, herbs",None,12.44,3.3,Does not contain
+Greek Lemon Potatoes,Potatoes,None,Olive oil,"Lemon juice, herbs",None,16.23,1.6,Does not contain
+Stuffed Tomatoes,Tomatoes,None,None,"Herbs, breadcrumbs",None,7.47,2.4,Does not contain
+Biryani,Rice,None,Ghee,"Biryani masala, spices",None,16.49,2.9,Does not contain
+Chole Bhature,Chickpeas,Sugar,Ghee,"Chole masala, spices",None,18.19,3.8,Does not contain
+Masala Dosa,Rice,None,Oil,"Potato masala, spices",None,9.66,3,Does not contain
+Samosa,Potatoes,None,Ghee,Spices,None,12.12,3.5,Contains
+Aloo Gobi,Potatoes,None,Oil,"Cauliflower, spices",None,5.64,4.1,Does not contain
+Chicken Biryani,Chicken,None,Ghee,"Basmati rice, spices",None,5.21,3.1,Does not contain
+Vada Pav,Potato,None,Oil,"Pav bun, chutney",None,16.75,1,Does not contain
+Pani Puri,Semolina,Tamarind,None,"Spiced water, chutney",None,11.67,4.3,Does not contain
+Rajma Chawal,Kidney beans,None,Ghee,Spices,None,11.23,2.2,Contains
+Chicken Curry,Chicken,None,Oil,Curry spices,None,14.22,3.4,Does not contain
+Vegetable Biryani,Mixed vegetables,None,Ghee,"Basmati rice, spices",None,15.46,3.2,Does not contain
+Chana Masala,Chickpeas,None,Oil,Masala spices,None,10.61,3.7,Does not contain
+Paniyaram,Fermented batter,None,Oil,"Mustard seeds, curry leaves",None,18.05,1.9,Does not contain
+Chicken Biryani,Chicken,None,Ghee,"Basmati rice, spices",None,11.32,2.2,Does not contain
+Pav Bhaji,Mixed vegetables,None,Butter,"Pav bread, spices",None,9.77,1.1,Does not contain
+Hyderabadi Biryani,Basmati rice,None,Ghee,"Meat/vegetables, spices",None,14.52,2,Does not contain
+Chicken Curry,Chicken,None,Oil,Curry spices,None,17.8,1.3,Does not contain
+Dosa,Rice,None,Oil,"Potato masala, chutney",None,8.7,1.9,Does not contain
+Chole Kulche,Chickpeas,None,Ghee,"Kulcha bread, spices",None,18.28,2.2,Does not contain
+Gobi Manchurian,Cauliflower,None,Oil,Manchurian sauce,None,6.52,1.1,Does not contain
+Mutton Biryani,Mutton,None,Ghee,"Basmati rice, spices",None,11.27,2.8,Does not contain
+Oatmeal,Oats,Sugar,Milk,Cinnamon,"Oats, Dairy",16.56,2.6,Contains
+Chicken Satay,Chicken,None,Peanut butter,Soy sauce,Peanuts,8.82,1.9,Contains
+Peanut Butter,Peanuts,Sugar,Vegetable oil,Salt,Peanuts,16.37,4,Contains
+Peanut Butter,Peanuts,Sugar,Vegetable oil,Salt,Peanuts,9.04,3.2,Contains
+Chicken Satay,Chicken,None,Peanut oil,"Satay sauce, spices",Peanuts,17.35,4.2,Contains
+Chicken Satay,Chicken,None,Peanut oil,"Satay sauce, spices",Peanuts,8.85,1.8,Contains
+Pesto Chicken,Chicken,None,Olive oil,Pesto sauce,"Pine nuts, Dairy",10.96,1.9,Contains
+Zucchini Noodles with Pesto,Zucchini,None,Olive oil,Pesto sauce,"Pine nuts, Dairy",16.36,1.3,Contains
+Pesto Chicken,Chicken,None,Olive oil,Pesto sauce,"Pine nuts, Dairy",14.18,3.1,Contains
+Rice Pudding,Rice,Sugar,Milk,"Cinnamon, raisins","Rice, Dairy",16.09,3.8,Contains
+Shrimp Scampi,Shrimp,None,Butter,"Garlic, lemon",Shellfish,18.57,2.4,Contains
+Shrimp Scampi Pasta,Shrimp,None,Butter,"Garlic, lemon",Shellfish,19.78,1.6,Contains
+Garlic Shrimp,Shrimp,None,Olive oil,Garlic,Shellfish,6.05,1.6,Contains
+Lemon Garlic Shrimp,Shrimp,None,Olive oil,"Lemon juice, garlic",Shellfish,6.87,1.2,Contains
+Lemon Garlic Shrimp,Shrimp,None,Olive oil,"Lemon juice, garlic",Shellfish,16.13,1.7,Contains
+Prawn Biryani,Prawns,None,Ghee,"Basmati rice, spices",Shellfish,6.63,1.5,Contains
+Lobster Bisque,Lobster,None,Butter,"Cream, brandy","Shellfish, Dairy",8.79,2.6,Contains
+Caesar Shrimp Skewers,Shrimp,None,Olive oil,Caesar dressing,"Shellfish, Dairy",12.4,2.1,Contains
+Shrimp Scampi,Shrimp,None,Butter,"Garlic, lemon","Shellfish, Dairy",18.48,4.8,Contains
+Lobster Bisque,Lobster,None,Butter,"Cream, brandy","Shellfish, Dairy",13.99,2.2,Contains
+Caesar Shrimp Skewers,Shrimp,None,Olive oil,Caesar dressing,"Shellfish, Dairy",12.79,3.4,Contains
+Prawn Curry,Prawns,None,Coconut milk,Curry spices,"Shellfish, Dairy",14.95,3.9,Contains
+Lobster Roll,Lobster,None,Mayonnaise,"Celery, lemon juice","Shellfish, Eggs",16.2,4.4,Contains
+Lobster Roll,Lobster,None,Mayonnaise,"Celery, lemon juice","Shellfish, Eggs",15.55,1.5,Contains
+Bacon-Wrapped Shrimp,Shrimp,None,Bacon,Seasonings,"Shellfish, Pork",5.55,4.5,Contains
+Shrimp Fried Rice,Shrimp,None,Vegetable oil,Soy sauce,"Shellfish, Soybeans",12.06,3.7,Contains
+Soy Milk,Soybeans,Sugar,None,Emulsifiers,Soybeans,19.49,1.7,Contains
+Soy Milk,Soybeans,Sugar,None,Emulsifiers,Soybeans,13.81,4.1,Contains
+Tofu Stir-Fry,Tofu,None,Vegetable oil,Soy sauce,Soybeans,5.11,4.7,Contains
+Miso Soup,Miso paste,None,None,"Tofu, seaweed",Soybeans,11.86,2.9,Contains
+Tofu Scramble,Tofu,None,Vegetable oil,"Turmeric, spices",Soybeans,18.93,2.2,Contains
+Chicken Teriyaki,Chicken,None,Soy sauce,"Honey, ginger",Soybeans,15.31,4,Contains
+Tofu Stir-Fry,Tofu,None,Vegetable oil,Soy sauce,Soybeans,18.59,2.2,Contains
+Teriyaki Beef,Beef,None,Soy sauce,"Teriyaki sauce, vegetables",Soybeans,12.47,4.3,Contains
+Sushi Rolls,Sushi rice,None,Soy sauce,"Nori (seaweed), fish","Soybeans, Fish",15.85,4.4,Contains
+Wheat Bread,Wheat flour,None,None,Salt,Wheat,13.92,4.9,Contains
+Wheat Bread,Wheat flour,None,None,Salt,Wheat,18.79,1.1,Contains
+Zucchini Bread,Zucchini,Sugar,Vegetable oil,Flour,Wheat,11.8,3.4,Contains
+Chicken Noodle Casserole,Chicken,None,Butter,"Noodles, vegetables",Wheat,9.5,4.5,Contains
+Onion Rings,Onions,None,Vegetable oil,Flour,Wheat,11.19,1.5,Contains
+Chicken Pot Pie,Chicken,None,Butter,"Vegetables, pastry",Wheat,16.05,4.4,Contains
+Grilled Portobello Mushroom Burger,Portobello mushrooms,None,None,"Burger bun, vegetables",Wheat,17.03,3.8,Contains
+Aloo Paratha,Potatoes,None,Ghee,"Wheat flour, spices",Wheat,5.64,3,Contains
+Oatmeal Raisin Cookies,Oats,Sugar,Butter,Flour,"Wheat, Dairy",18.21,1.4,Contains
+Oatmeal Raisin Cookies,Oats,Sugar,Butter,Flour,"Wheat, Dairy",17.15,3.9,Contains
+Pancakes,Flour,Sugar,Butter,Baking powder,"Wheat, Dairy",10.4,4.5,Contains
+Carrot Cake,Carrots,Sugar,Vegetable oil,Cinnamon,"Wheat, Dairy",12.02,3.5,Contains
+Blueberry Muffins,Blueberries,Sugar,Butter,Flour,"Wheat, Dairy",15.89,4.9,Contains
+Chocolate Chip Cookies,Flour,Sugar,Butter,Chocolate chips,"Wheat, Dairy",8.22,2.1,Contains
+Mushroom Risotto,Arborio rice,None,Butter,Mushroom,"Wheat, Dairy",13.93,1.4,Contains
+Cinnamon Rolls,Flour,Sugar,Butter,Cinnamon,"Wheat, Dairy",14.32,4.5,Contains
+Pineapple Upside-Down Cake,Pineapple,Sugar,Butter,Flour,"Wheat, Dairy",14.83,3.5,Contains
+Apple Pie,Apples,Sugar,Butter,Cinnamon,"Wheat, Dairy",9.24,4.3,Contains
+Banana Bread,Bananas,Sugar,Butter,Flour,"Wheat, Dairy",16.56,3.6,Contains
+Vanilla Cupcakes,Flour,Sugar,Butter,Vanilla extract,"Wheat, Dairy",7.86,2.4,Contains
+Apple Crisp,Apples,Sugar,Butter,Cinnamon,"Wheat, Dairy",6.29,1.4,Contains
+Pasta Carbonara,Pasta,None,Bacon,"Egg, Parmesan cheese","Wheat, Dairy",8.71,3,Contains
+Blueberry Pancakes,Flour,Sugar,Butter,Blueberries,"Wheat, Dairy",6.84,4.9,Contains
+Lemon Bars,Flour,Sugar,Butter,Lemon juice,"Wheat, Dairy",9.78,1.1,Contains
+Pumpkin Pie,Pumpkin,Sugar,Butter,"Cinnamon, nutmeg","Wheat, Dairy",8.9,3.6,Contains
+Mixed Berry Pie,Mixed berries,Sugar,Butter,Flour,"Wheat, Dairy",8.72,4.9,Contains
+Garlic Bread,Bread,None,Butter,Garlic,"Wheat, Dairy",13.22,4.1,Contains
+Berry Cobbler,Mixed berries,Sugar,Butter,Flour,"Wheat, Dairy",13.56,2,Contains
+Baked Ziti,Pasta,None,Cheese,Tomato sauce,"Wheat, Dairy",14.3,4.3,
+Baked Ziti,Pasta,None,Cheese,Tomato sauce,"Wheat, Dairy",7.51,1.1,Contains
+Key Lime Pie,Lime juice,Sugar,Butter,Graham cracker crust,"Wheat, Dairy",17.46,1.2,Contains
+Lemon Poppy Seed Muffins,Flour,Sugar,Butter,"Lemon zest, poppy seeds","Wheat, Dairy",13.56,2.6,Contains
+Chicken Quesadilla,Chicken,None,Butter,Cheese,"Wheat, Dairy",11.5,4.3,Contains
+Pancake Stack,Flour,Sugar,Butter,Maple syrup,"Wheat, Dairy",19.25,4,Contains
+Strawberry Shortcake,Strawberries,Sugar,Whipped cream,Shortcake,"Wheat, Dairy",8.82,4.6,Contains
+Berry Crumble,Mixed berries,Sugar,Butter,"Oats, cinnamon","Wheat, Dairy",10.02,4.8,Contains
+Raspberry Cheesecake,Cream cheese,Sugar,Butter,"Graham cracker crust, raspberries","Wheat, Dairy",11.93,1.4,Contains
+Blueberry Pancakes,Flour,Sugar,Butter,Blueberries,"Wheat, Dairy",8.55,3.7,Contains
+Oatmeal Raisin Cookies,Oats,Brown sugar,Butter,"Raisins, cinnamon","Wheat, Dairy",13.56,3.3,Contains
+Apple Crisp,Apples,Sugar,Butter,"Cinnamon, oats","Wheat, Dairy",11.87,1.3,Contains
+Chicken Enchiladas,Chicken,None,Enchilada sauce,"Cheese, tortillas","Wheat, Dairy",6.82,1.2,Contains
+Caesar Salad Wrap,Romaine lettuce,None,Caesar dressing,"Parmesan cheese, croutons","Wheat, Dairy",10.76,3.5,Contains
+Caesar Salad Wrap,Romaine lettuce,None,Caesar dressing,"Parmesan cheese, croutons","Wheat, Dairy",15.05,2.2,Contains
+S'mores,Graham crackers,Marshmallows,Chocolate,None,"Wheat, Dairy",18.4,4.3,Contains
+Tiramisu,Ladyfingers,Sugar,Mascarpone cheese,"Coffee, cocoa","Wheat, Dairy",19.56,1.6,Contains
+Cinnamon Rolls,Dough,Sugar,Butter,"Cinnamon, icing","Wheat, Dairy",7.93,3.8,Contains
+Chicken Caesar Salad,Chicken,None,Caesar dressing,"Romaine lettuce, croutons","Wheat, Dairy",19.93,3.8,Contains
+Vegetable Lasagna,Vegetables,None,Olive oil,"Tomato sauce, cheese","Wheat, Dairy",8.58,1.5,Contains
+Garlic Bread,Bread,None,Butter,Garlic,"Wheat, Dairy",13.48,1.9,Contains
+Chicken Alfredo Pizza,Pizza dough,None,None,"Chicken, Alfredo sauce","Wheat, Dairy",19.7,1.1,Contains
+Caesar Pasta Salad,Pasta,None,Caesar dressing,"Romaine lettuce, Parmesan cheese","Wheat, Dairy",15.05,4.1,Contains
+Baked Apple,Apples,Sugar,Butter,"Cinnamon, oats","Wheat, Dairy",6.66,4.4,Contains
+Apple Pie,Apples,Sugar,Butter,"Cinnamon, pastry","Wheat, Dairy",15.13,1.9,Contains
+Chicken Parmesan,Chicken,None,Olive oil,"Tomato sauce, cheese","Wheat, Dairy",18.06,5,Contains
+Pumpkin Pie,Pumpkin,Sugar,Butter,"Pumpkin spice, pastry","Wheat, Dairy",13.4,3.7,Contains
+Blueberry Muffins,Flour,Sugar,Butter,Blueberries,"Wheat, Dairy",11.11,3.4,Contains
+Sausage and Pepper Pizza,Pizza dough,None,None,"Sausage, bell peppers","Wheat, Dairy",14.41,2.8,Contains
+Beef Wellington,Beef,None,Butter,"Mushrooms, puff pastry","Wheat, Dairy",15.45,1.1,Contains
+Baked Ziti,Pasta,None,None,"Tomato sauce, cheese","Wheat, Dairy",5.16,1.3,Contains
+Lemon Poppy Seed Muffins,Flour,Sugar,Butter,"Lemon zest, poppy seeds","Wheat, Dairy",19.84,4.6,Contains
+Apple Crisp,Apples,Sugar,Butter,"Cinnamon, oats","Wheat, Dairy",5.67,4.2,Contains
+Chicken Enchiladas,Chicken,None,Enchilada sauce,"Cheese, tortillas","Wheat, Dairy",6.31,3.2,Contains
+Caesar Salad Wrap,Romaine lettuce,None,Caesar dressing,"Parmesan cheese, croutons","Wheat, Dairy",16.74,4.7,Contains
+S'mores,Graham crackers,Marshmallows,Chocolate,None,"Wheat, Dairy",14.18,4.4,Contains
+Tiramisu,Ladyfingers,Sugar,Mascarpone cheese,"Coffee, cocoa","Wheat, Dairy",13.92,4.9,Contains
+Cinnamon Rolls,Dough,Sugar,Butter,"Cinnamon, icing","Wheat, Dairy",18.24,3.3,Contains
+Chicken Caesar Salad,Chicken,None,Caesar dressing,"Romaine lettuce, croutons","Wheat, Dairy",17,4.1,Contains
+Vegetable Lasagna,Vegetables,None,Olive oil,"Tomato sauce, cheese","Wheat, Dairy",15.56,3.1,Contains
+Garlic Bread,Bread,None,Butter,Garlic,"Wheat, Dairy",11.49,5,Contains
+Chicken Alfredo Pizza,Pizza dough,None,None,"Chicken, Alfredo sauce","Wheat, Dairy",10.98,2.4,Contains
+Caesar Pasta Salad,Pasta,None,Caesar dressing,"Romaine lettuce, Parmesan cheese","Wheat, Dairy",15.29,4.8,Contains
+Baked Apple,Apples,Sugar,Butter,"Cinnamon, oats","Wheat, Dairy",19.66,4.9,Contains
+Apple Pie,Apples,Sugar,Butter,"Cinnamon, pastry","Wheat, Dairy",18.7,1.8,Contains
+Chicken Parmesan,Chicken,None,Olive oil,"Tomato sauce, cheese","Wheat, Dairy",13.29,3.7,Contains
+Pumpkin Pie,Pumpkin,Sugar,Butter,"Pumpkin spice, pastry","Wheat, Dairy",15.39,4.5,Contains
+Blueberry Muffins,Flour,Sugar,Butter,Blueberries,"Wheat, Dairy",15.07,2.1,Contains
+Sausage and Pepper Pizza,Pizza dough,None,None,"Sausage, bell peppers","Wheat, Dairy",16.88,1.7,Contains
+Beef Wellington,Beef,None,Butter,"Mushrooms, puff pastry","Wheat, Dairy",10.6,3.6,Contains
+Jalebi,Flour,Sugar,Ghee,Saffron syrup,"Wheat, Dairy",13.5,1.1,Contains
+Butter Naan,Flour,None,Butter,None,"Wheat, Dairy",14.96,3.2,Contains
+Tiramisu,Ladyfingers,Sugar,"Mascarpone cheese, coffee liqueur",Cocoa powder,"Wheat, Dairy, Alcohol",13.86,4.4,Contains
+Chocolate Cake,Flour,Sugar,Butter,Cocoa powder,"Wheat, Dairy, Cocoa",19.26,2.9,Contains
+Chocolate Chip Pancakes,Flour,Sugar,Butter,Chocolate chips,"Wheat, Dairy, Cocoa",6.34,1.7,Contains
+Lemon Bars,Lemon juice,Sugar,Butter,"Flour, eggs","Wheat, Dairy, Eggs",14.18,3.8,Contains
+Lemon Bars,Lemon juice,Sugar,Butter,"Flour, eggs","Wheat, Dairy, Eggs",5.07,2.9,Contains
+Pecan Pie,Pecans,Sugar,Butter,Corn syrup,"Wheat, Dairy, Nuts",11.95,4.4,Contains
+Zucchini Bread,Zucchini,Sugar,Butter,"Cinnamon, nuts","Wheat, Dairy, Nuts",12.67,3.4,Contains
+Banana Bread,Bananas,Sugar,Butter,"Cinnamon, nuts","Wheat, Dairy, Nuts",15.83,2.4,Contains
+Hawaiian Pizza,Pizza dough,None,None,"Pineapple, ham","Wheat, Pork, Dairy",8.55,2.3,Contains
